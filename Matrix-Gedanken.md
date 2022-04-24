@@ -113,3 +113,16 @@ Nur in öffentlichen Räumen muss aktiv die Verschlüsselung eingeschaltet werde
 Das ist falsch.
 Für z.b. Linux kann ich [Fluffychat](https://fluffychat.im/) empfehlen.
 Es gibt wohl auch einen Windows-Client, dieser wird aber offiziell nicht unterstützt.
+
+# [Brücken](https://www.freie-messenger.de/sys_matrix/gedanken/#brücken)
+## [Grundsätzliches](https://www.freie-messenger.de/sys_matrix/gedanken/#grundsätzliches)
+> 1. Die Matrix-Bifröst-Brücke ist bisher noch nicht Über den Experimentalstatus (extern) hinaus gekommen („This bridge is in very active development currently and intended mainly for experimentation and evaluation purposes.“) - offensichtlich wird in anderen Brücken mehr Wertschöfpungspotential gesehen.
+
+Ich finde es schade, dass die XMPP-Community scheinbar keinerlei Intentionen zeigt, daran zu arbeiten es zu ändern.
+¯\\\_(ツ)_/¯ Es ist einfach über etwas zu meckern, aber daran mitzuwirken, dass sich etwas ändert ist scheinbar nicht gewünscht...
+
+> 2. Austausch nur über Matrix
+Matrix-Brücken sind lediglich Brücken von/zu Matrix - ein direkter Austausch zwischen anderen Systemen ist damit nicht möglich. Folglich sind Brücken also Teil des Interoperabilitätsproblems und nicht der Problemlöser (das Selbe gilt auch für Brücken (“Transporte”), die es bei XMPP gibt!).
+
+Wenn ich eine Straße von Nürnberg nach Fürth baue, erwartet man dann auch, dass ich auf dieser Straße nach Hamburg fahren kann?
+Weil ich auf der Straße nicht nach Hamburg fahren kann, ist dies Teil des Problems, warum ich nicht nach Hamburg fahren kann?
