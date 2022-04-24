@@ -40,7 +40,7 @@ Bei Matrix sind diese zum Beispiel hier zu finden:
 https://spec.matrix.org/latest/
 
 # Kritik einzelner Seiten
-Nachfolgend, getrennt in einer eigenen Datei, werden einzelne Seiten einzeln analysiert.
+Nachfolgend, getrennt in einer eigenen Datei, werden einzelne Seiten einzeln analysiert.  
 [Matrix -> Gedanken](Matrix-Gedanken.md)
 
 # DMA
