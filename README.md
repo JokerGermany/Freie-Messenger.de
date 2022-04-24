@@ -25,16 +25,16 @@ Interessant ist in diesem Zusammenhang, dass Jabber/XMPP nicht als Wort erwähnt
 Aber was ist ein internationaler Standard überhaupt?
 Schaut man sich mal die beiden Begriffe bei Wiktionary:
 #### Internatrional
-https://de.wiktionary.org/wiki/international
-[1] Nationen-übergreifend
-[2] mehrere Nationen betreffend, auf diese Bezug nehmend
+https://de.wiktionary.org/wiki/international  
+[1] Nationen-übergreifend  
+[2] mehrere Nationen betreffend, auf diese Bezug nehmend  
 
 Nimmt man nur für sich den Begriff International bekommt man den Eindruck: Im Bezug auf Messenger ist jeder Messenger "international", der in mindestens 2 Ländern eingesetzt wird. Nicht unbedingt ein Ausschlusskriterium
 
 #### Standard
-https://de.wiktionary.org/wiki/Standard
-[1] etwas Geläufiges, Etabliertes, weithin Verbreitetes
-[2] Industrie: verbindliche Richtlinie, die sicherstellen soll, dass Produkte verschiedener Hersteller miteinander kompatibel beziehungsweise interoperabel sind.
+https://de.wiktionary.org/wiki/Standard  
+[1] etwas Geläufiges, Etabliertes, weithin Verbreitetes  
+[2] Industrie: verbindliche Richtlinie, die sicherstellen soll, dass Produkte verschiedener Hersteller miteinander kompatibel beziehungsweise interoperabel sind.  
 
 Hier ist es schon interessanter. Wenn man ehrlich ist, passt auf "Etablertes, weithin Verbreitetes" in den meisten Ländern leider am Besten WhatsApp. Nimmt man die "verbindliche Richtlinie" kann man eigentlich jegliches offene Protokoll oder sogar API als Standard bezeichnen.
 Bei Matrix sind diese zum Beispiel hier zu finden:
@@ -53,6 +53,10 @@ https://de.wiktionary.org/wiki/standardisiert
 Es wird also wieder auf [Standard](#Standard) verwiesen.
 
 Also auch in diesem Fall, eine Nebelkerze die alles heißen kann.
+
+## Chat-Standard „XMPP“
+Hier sei wieder auf [Standard](#Standard) verwiesen.
+Warum man es für wichtig hält for XMPP "Chat Standard" zu stellen und warum man das bei den anderen Messengern nicht macht, ist wohl das Geheimnis des Autors.
 
 # Kritik einzelner Seiten
 Nachfolgend, getrennt in einer eigenen Datei, werden einzelne Seiten einzeln analysiert.  
