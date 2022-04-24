@@ -196,3 +196,10 @@ Schon wieder meint der Autor XMPP ein "Standard" voranstellen zu müssen...
 >internationalen Standard XMPP
 
 Jetzt ist es sogar schon ein internationaler Standard. WoW!
+
+
+# [Gründe für Matrix](https://www.freie-messenger.de/sys_matrix/gedanken/#gründe-für-matrix)
+> Und: Die damals bemängelte Fragmentierung findet nun auch schon bei Matrixstatt, so wie das beidezentralen Systemen ganz natürlich ist.
+
+Es ist ein Unterschied ob die Fragmentierung nur auf Versionsbasis, oder auf Versions UND Featurebasis.
+Aber das wurde ja schon bei [#Monolithisches Protokoll](#monolithisches-protokoll) erläutert.
