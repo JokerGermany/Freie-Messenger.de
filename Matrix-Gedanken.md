@@ -41,4 +41,17 @@ Hier versucht der Autor mit standartisiertem Schnittstellen ( [Analyse zu "stand
 Dabei funktioniert der Gruppenchat bei XMPP/Jabber ironischerweise GENAUSO wie Matrix mit dem Unterschied das nicht jeder Server ein Backup speichern MUSS.
 Der Nutzer kontaktiert seinen Heimserver welcher wiederum die Daten vom Chatserver, wo der Chat gehostet wird, abholt.
 Man stellt also fest, dass auch bei XMPP/Jabber die Daten quasi repliziert werden.
-Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, könnte er die Daten genauso zwischenspeichern wie es bei Matrix getan wird. Somit ist die Art der Datenverarbeitung NICHT unterschiedlich. Trotzdem ist man vollständig abhängig von dem einem Hautpchat-Server. Fällt dieser aus, ist der Gruppenchat bei XMPP/Jabber verloren.
+Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, könnte er die Daten genauso zwischenspeichern wie es bei Matrix getan wird. Somit ist die Art der Datenverarbeitung NICHT unterschiedlich. Trotzdem ist man vollständig abhängig von dem einem Hautpchat-Server. Fällt dieser aus, ist der Gruppenchat bei XMPP/Jabber verloren. Datenschutz 
+
+# [Kein Internetstandard](https://www.freie-messenger.de/sys_matrix/gedanken/#kein-internetstandard)
+Das Matrix sehr wohl ein Internetstandard ist, habe ich schon hier erläutert:
+https://github.com/JokerGermany/Freie-Messenger.de#internationaler-standard
+
+Aber in diesem Text zeigt sich, weswegen der Autor glaubt, dass nur XMPP/Jabber ein internationaler Standard ist.
+> Matrix ist kein durch die IETF (extern) geprüftes, legitimiertes oder standardisiertes Protokoll. 
+
+Ja Matrix ist kein IETF-Standard, das ist korrekt. Meinen Informationen zurfolge ist langfristig tatsächlich der Plan, Matrix nach IETF zu standardisierem. Doch solange Matrix sich so schnell entwickelt wie es derzeit der Fall ist, möchte man lieber davon absehen, da schon jetzt die Spezifizierung eines neuen Matrix Specs sehr lange dauert und mit Einbindung der IETF noch längern dauern würde.
+
+Interessant hierbei ist, dass der Autor meint XMPP ein "Chat-Standard" voranstellen zu müssen.
+Mehr dazu hier:
+https://github.com/JokerGermany/Freie-Messenger.de#chat-standard-xmpp
