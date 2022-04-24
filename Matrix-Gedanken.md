@@ -93,3 +93,8 @@ Dort gab es sogar innerhalb verschiedener Standorter von ein und derselben Firma
 Hier wird übrigens erklärt, das XMPP auch im militärischen Einsatz eingesetzt wird und fragt sich warum dort die nicht vorhandene Föderation kein Thema ist...  
 https://www.freie-messenger.de/sys_xmpp/#militärischer-einsatz-nato
 
+# [Ressourcenbedarf](https://www.freie-messenger.de/sys_matrix/gedanken/#ressourcenbedarf)
+> Die einfachste Lösung für das Ressourcenproblem, das seitens Matrix derzeit mit „conduit“ (Beta-Status) (extern) versucht wird zu verbessern, ist die Einschränkung bei der Föderation. Um im Rahmen der vorhandenen technischen Möglichkeiten zu bleiben, werden deshalb manche Matrix-Instanzen nicht öffentlich betrieben.
+
+Conduit befindet sich nach wie vor im Beta Status. Die Information, dass Conduit keine Föderation kann, ist veraltet. Wenn man einen neuen Server entwickelt ist es teil des Entwicklungsprozesses Features nach und nach zu implementieren. Sind alle Features stabil implementiert endet auch die Beta Phase.
+Es gibt übrigens auch schon verschiedene Nachfolger von Conduit in der Entwicklung, die nochmals Ressourcenschonender sind.
