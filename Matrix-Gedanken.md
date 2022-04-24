@@ -98,3 +98,11 @@ https://www.freie-messenger.de/sys_xmpp/#militärischer-einsatz-nato
 
 Conduit befindet sich nach wie vor im Beta Status. Die Information, dass Conduit keine Föderation kann, ist veraltet. Wenn man einen neuen Server entwickelt ist es teil des Entwicklungsprozesses Features nach und nach zu implementieren. Sind alle Features stabil implementiert endet auch die Beta Phase.
 Es gibt übrigens auch schon verschiedene Nachfolger von Conduit in der Entwicklung, die nochmals Ressourcenschonender sind.
+
+# [Verschlüsselung](https://www.freie-messenger.de/sys_matrix/gedanken/#verschlüsselung)
+> Trotzdem wird immer behauptet, bei Matrix wäre automatisch alles verschlüsselt. 
+
+Schade das ohne Quellen einfach etwas behauptet wird. Wo wird etwas "immer behauptet"?
+Bei Matrix sind 1zu1 Räume automatisch verschlüsselt. z.B. in Element kann man dies nur sehr sehr umständlich umgehen.
+Erstellt man in Element private Räume ist eine Verschlüsselung ebenfalls vorausgewählt und muss aktiv abgewählt werden.
+Nur in öffentlichen Räumen muss aktiv die Verschlüsselung eingeschaltet werden, falls gewünscht.
