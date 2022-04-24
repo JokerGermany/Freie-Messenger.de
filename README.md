@@ -9,6 +9,8 @@ Statt einen neutrale Anlaufstelle für Freie-Messenger zu bieten, ist die Websei
 Das bedeutet nicht, dass alle Argumente z.B. gegen properitären Messengern falsch sind! 
 Im Gegenteil, oft sind die Argumente gut aufgearbeitet, aber die Schlussfolgerungen sind nicht mehr Neutral.
 
+Die Mitarbeit und Kritik an diesem Repository ist gewünscht!
+
 # DMA
 Beispiele:
 1. https://www.freie-messenger.de/begriffe/interoperabilitaet/dma/ ([Archiviert am 2021-12-16](https://web.archive.org/web/20211216144331/https://www.freie-messenger.de/grundsaetzliches/))
