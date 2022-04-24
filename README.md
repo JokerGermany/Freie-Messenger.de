@@ -54,11 +54,6 @@ Es wird also wieder auf [Standard](#Standard) verwiesen.
 
 Also auch in diesem Fall, eine Nebelkerze die alles heißen kann.
 
-
-# [Datenschutz/Privatsphäre](https://www.freie-messenger.de/sys_matrix/gedanken/#datenschutz-privatsphäre)
-> vermutlich ist das auch der Grund für [...] die Nicht-Nutzung der Schnittstelle zu standardisiertem Chat.
-Auch hier verweise ich 
-
 # Kritik einzelner Seiten
 Nachfolgend, getrennt in einer eigenen Datei, werden einzelne Seiten einzeln analysiert.  
 [Matrix -> Gedanken](Matrix-Gedanken.md)
