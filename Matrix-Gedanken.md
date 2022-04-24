@@ -146,3 +146,28 @@ https://de.wiktionary.org/wiki/Interoperabilit%C3%A4t
 
 Und wenn man sich mit dem Thema beschäftigt, merkt man, dass es auch von der Art der Brücke abhängt.
 z.B. sind Brücken bei denen die Bots genutzt werden, z.B. bei Discord und Telegram, völlig unkritisch.
+
+## [Datenintegrität](https://www.freie-messenger.de/sys_matrix/gedanken/#datenintegrität)
+> Seit März 2022 verändert die die Matrix-Brücke (Bifröst) Inhalte und übersetzt neuerdings XMPP URIs (Adressen)
+
+Es ist schon faszinierend wie jemand, der immer wieder XMPP/Jabber versucht als DEN Standard hervorzuheben, das Prinzip von Diensten scheinbar nicht versteht.
+Genauso wie es bei freien Messengern bei Homeservern nicht DEN Anbieter gibt, gibt es auch bei Brücken nicht die "Matrix-Brücke (Bifrost)".
+Das von ihm angedeutete Feature macht eine der Brücken:  
+https://aria-net.org/SitePages/Portal/Bridges.aspx  
+
+Wer das nicht möchte kann z.B. auch die [Brücke von matrix.org](https://github.com/matrix-org/matrix-bifrost/wiki/Address-syntax) nutzen oder selber die Brücke hosten.
+
+> Ganz abgesehen davon, daß Nachrichten von einer Brücke nicht inhaltlich geändert werden sollten: Warum erfolgt die Änderung der Links in Nachrichten ausschließlich in Richtung der Matrix-Syntax und in der anderen Richtung wird keine Matrix-Adresse „übersetzt“ - warum?
+
+¯\\\_(ツ)_/¯ Vielleicht liegt es daran, weil die XMPP Community bisher kein Interesse hatte das Feature beizutragen?!?
+
+> Hier werden Aufgeben, die ein Client übernehmen sollte (optionale Anpassung in der Anzeige von Inhalten) von der Brücke übernommen. Verknüpfungen (Links) beinhalten bewußt das zu berücksichtigende Protokoll, was viele Gründe haben kann - unter anderem Sicherheit.
+
+Wer bestimmt eigentlich, wer welche Aufgabe hat?  
+Vielleicht nutzt ein Matrix-Nutzer auch die aria-net.org Brücke WEGEN des Features.  
+Es soll einige Nutzer geben, die dieses Feature haben wollen.
+
+> Ein Entwickler der Bifröst-Bridge merkt dazu treffenderweise an, daß das lediglich meine Meinung ist:
+Ich nehme an, das ist Ihre Meinung im Gegensatz zu anderen, die vielleicht tatsächlich XMPP benutzen und dafür entwickeln, z.B. https://github.com/matrix-org/matrix-bifrost/issues/308 (extern)
+
+Ähm dort wird gar nichts angemerkt?!?
