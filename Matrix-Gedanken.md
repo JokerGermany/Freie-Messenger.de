@@ -135,4 +135,5 @@ https://de.wiktionary.org/wiki/Interoperabilit%C3%A4t
     1] Plural selten: Fähigkeit der Zusammenarbeit von verschiedenen Systemen, Techniken oder Organisationen; insbesondere möglichst nahtloses Zusammenarbeiten, um Informationen auf effiziente und verwertbare Art und Weise auszutauschen beziehungsweise den Benutzern zur Verfügung zu stellen  
     [2] Informatik, Plural selten: Konstellation, in der mehrere Programme dasselbe Protokoll beziehungsweise dieselben Protokolle oder Datenformate verwenden können__
     
+Wieso ist eine übergreifende Kommunikation keine Interoperabilität?  
 ¯\\\_(ツ)_/¯  Arbeiten nicht verschiedene Systeme zusammen, wenn über verschiedene Messenger hinweg sich ausgetauscht werden kann?
