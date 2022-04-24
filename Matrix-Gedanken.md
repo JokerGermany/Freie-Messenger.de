@@ -171,3 +171,28 @@ Es soll einige Nutzer geben, die dieses Feature haben wollen.
 Ich nehme an, das ist Ihre Meinung im Gegensatz zu anderen, die vielleicht tatsächlich XMPP benutzen und dafür entwickeln, z.B. https://github.com/matrix-org/matrix-bifrost/issues/308 (extern)
 
 Ähm dort wird gar nichts angemerkt?!?
+
+## [Unklare Positionierung](https://www.freie-messenger.de/sys_matrix/gedanken/#unklare-positionierung)
+>Auf der einen Seite wird mit Brücken zwischen den Protokollen Matrix und XMPP geworben - auf der anderen Seite wird XMPP überhaupt nicht bei den Matrix-Brücken (extern) aufgeführt bzw. mit keinem Wort erwähnt. Zumindest nicht auf dieser wichtigen Seite.
+>
+>Um „XMPP“ zu finden, muß man unter „libpurple“ schauen, wo widerum auf „matrix-bifrost“ verwisen und der Hinweis “General purpose puppeting bridges using libpurple and other backends. This bridge is in very active development currently and intended mainly for experimentation and evaluation purposes.” gegeben wird. Erst auf der dort verlinkten Github-Seite steht bzw. findet man dann „XMPP“.
+
+Vielleicht sollte man erst einmal an der richtigen Stelle einen Verbesserungsvorschlag anbringen und wenn dann nichts passiert es anmeckern...  
+[Ich habe das mal gemacht](https://github.com/matrix-org/matrix.org/issues/1311)  
+Aber vielleicht will man auch gar nicht, dass sich etwas verbessert...
+
+> Es wird also teilweise mit Brücken zu XMPP geworben - aber Interoperabilität auf der Basis von internationalen Protokollen wird nicht aktiv verfolgt.
+
+Ich gehe mal davon aus, dass statt XMPP dort eigentlich Matrix rein sollte.
+Doch es wird die Interoperablität zu vielen internationalen Protokollen verfolgt.
+Was Internationale Protokolle sind, wurde hier analysiert:
+https://github.com/JokerGermany/Freie-Messenger.de#internationalen-protokolle
+Nämlich jeglichen der gebridgen Messenger kann man als interantionales Protokoll bezeichnen.
+
+> Standard XMPP
+
+Schon wieder meint der Autor XMPP ein "Standard" voranstellen zu müssen...
+
+>internationalen Standard XMPP
+
+Jetzt ist es sogar schon ein internationaler Standard. WoW!
