@@ -14,7 +14,7 @@ Was mit "vorhandene Schnittstelle in der Praxis freigeschaltet wird" gemeint ist
 Eine Analyse zu "standardisiertem Chat" kann hier gefunden werden:
 https://github.com/JokerGermany/Freie-Messenger.de#standardisiertem-chat
 
-Zusammenfassend kann man sagen, dass sehr wohl eine "Schnittstell zu standardisiertem Chat" genutzt wird.
+Zusammenfassend kann man sagen, dass sehr wohl eine "Schnittstelle zu standardisiertem Chat" genutzt wird.
 https://spec.matrix.org/latest/
 
 
