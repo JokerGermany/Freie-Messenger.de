@@ -209,6 +209,7 @@ Aber das wurde ja schon bei [#Monolithisches Protokoll](#monolithisches-protokol
 > Das Standardprotokoll, das WhatsApp tatsächlich mittelfristig in der Breite ersetzen kann, ist aus heutiger Sicht und mit diesem Hintergrundwissen nicht das Protokoll Matrix sondern anbieterunabhängier Chat (auf der Basis des Standards XMPP).
 
 Hier wird es jetzt ganz wild. Anbieterunabhängiger Chat, was soll das sein? Ist Matrix nicht anbieterunabhäng?
+Welches Hintergrundwissen ist gemeint?
 
 > Standard XMPP
 
