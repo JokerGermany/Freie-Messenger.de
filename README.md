@@ -9,7 +9,7 @@ Statt einen neutrale Anlaufstelle für Freie-Messenger zu bieten, ist die Websei
 Das bedeutet nicht, dass alle Argumente z.B. gegen properitären Messengern falsch sind! 
 Im Gegenteil, oft sind die Argumente gut aufgearbeitet, aber die Schlussfolgerungen sind nicht mehr Neutral.
 
-#DMA
+# DMA
 Beispiele:
 1. https://www.freie-messenger.de/begriffe/interoperabilitaet/dma/
 > Man kann an alle verantwortlichen Politiker also lediglich appellieren, hier ihrer öffentlichen Vorbildfunktion gerecht zu werden und über den DMA hinaus anbieterunabhängigen Chat auf der Basis von XMPP zumindest als Kontaktmöglichkeit anzubieten.
