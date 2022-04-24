@@ -1,4 +1,5 @@
 In diesem Dokument wird die Webseite https://www.freie-messenger.de/sys_matrix/gedanken/ analysiert.
+
 # [Vorwort](https://www.freie-messenger.de/sys_matrix/gedanken/#vorwort)
 > Aber Matrix-Installationen können die dringend notwendige Interoperabilität unterstützen, wenn die vorhandene Schnittstelle zum [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/) auch tatsächlich in der Praxis freigeschaltet wird und genutzt werden kann.
 
@@ -203,3 +204,24 @@ Jetzt ist es sogar schon ein internationaler Standard. WoW!
 
 Es ist ein Unterschied, ob die Fragmentierung nur auf Versionsbasis, oder auf Versions UND Featurebasis existiert.
 Aber das wurde ja schon bei [#Monolithisches Protokoll](#monolithisches-protokoll) erläutert.
+
+# [Zusammenfassung / Fazit](https://www.freie-messenger.de/sys_matrix/gedanken/#zusammenfassung-fazit)
+> Das Standardprotokoll, das WhatsApp tatsächlich mittelfristig in der Breite ersetzen kann, ist aus heutiger Sicht und mit diesem Hintergrundwissen nicht das Protokoll Matrix sondern anbieterunabhängier Chat (auf der Basis des Standards XMPP).
+
+Hier wird es jetzt ganz wild. Anbieterunabhängiger Chat, was soll das sein? Ist Matrix nicht anbieterunabhäng?
+
+> Standard XMPP
+
+Schon wieder meint der Autor XMPP ein "Standard" voranstellen zu müssen...
+
+> Nicht durch eine öffentliche Föderation von Matrix-Servern sondern durch Aktivierung und Nutzung der wichtigen Brücke zu standarsisiertem Chat - also durch das Einhalten von internationalen Standards - wird tatsächliche Interoperabilität unterstützt und ermöglicht.
+
+Eine Analyse zu "standardisiertem Chat" kann hier gefunden werden:
+https://github.com/JokerGermany/Freie-Messenger.de#standardisiertem-chat
+Eine Analyse zu "standardisiertem Chat" kann hier gefunden werden:
+https://github.com/JokerGermany/Freie-Messenger.de#internationaler-standard
+
+Wer entscheidet eigentliche welche Brücke wichtig und welche unwichtig ist?
+¯\\\_(ツ)_/¯  Also Matrix Brücke zu vielen standardisierten Chats und internationalen Standards.
+
+
