@@ -69,4 +69,20 @@ Den Ist-Zustand kann man bei XMPP hier testen:
 https://compliance.conversations.im/tests/
 Ob ein gewünschtes neues XEP (So heißen die Erweiterungen bei XMPP) unterstützt wird, steht allerdings in den Sternen.
 Deswegen hat man sich bei Matrix für ein Monolithisches Protokoll entschieden und dieser Vorteil hat sich defintiv NICHT in Luft aufgelöst.
+
+# Flexibilität des Protokolls
+> Für moderne IM-Anforderungen ist das Matrix-Protokoll geeignet (es wäre ja auch schlimm, wenn nicht) - für andere Dinge jedoch wie das Internet der Dinge (IoT) oder neue Entwicklungen nicht wirklich. Also braucht es dafür separate Lösungen, was schade ist.
+
+Es ist schon spannend wie unterschiedlich Einschätzungen sein können.
+Hier mal ein paar Anwendungszwecke abseits der "modernen IM Anforderungen"
+- [Filestorage](https://fosdem.org/2022/schedule/event/matrix_filesystem/)
+- [CMS](https://github.com/medienhaus/medienhaus-cms)
+- [Thirdroom](https://github.com/matrix-org/thirdroom) - Eine Konkurrenz zum Metaverse von Meta
+- [MMO Browser Game](https://fosdem.org/2022/schedule/event/matrix_mmo_browser/)
+- [Datei und Webseiten Kommentare](https://fosdem.org/2022/schedule/event/matrix_decentralized_annotations/)
+- [Kommentare auf Webseiten](https://cactus.chat/)
+- [Blog](https://evolved.systems/hosting-a-blog-on-matrix/)
+- [collaborative Whiteboard](https://github.com/toger5/TheBoard)
+- [social media](https://minestrix.henri2h.fr/)
+- [Event-Management](https://gatho.party/)
  
