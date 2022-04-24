@@ -14,8 +14,9 @@ Die Mitarbeit und Kritik an diesem Repository ist gewünscht!
 # Zentrale Kritikpunkte
 ## Internationaler Standard
 Ein Argument, das immer wieder kommt sind Formulierungen wie:
-> [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/)  
-Vorkommnisse zum Beispiel:
+> [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/)
+
+Beispiel:
 https://www.freie-messenger.de/sys_matrix/gedanken/
 
 Interessant ist in diesem Zusammenhang, dass Jabber/XMPP nicht als Wort erwähnt wird.
