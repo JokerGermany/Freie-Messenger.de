@@ -10,7 +10,7 @@ Was mit "vorhandene Schnittstelle in der Praxis freigeschaltet wird" gemeint ist
 
 # [Datenschutz/Privatsphäre](https://www.freie-messenger.de/sys_matrix/gedanken/#datenschutz-privatsphäre)
 > vermutlich ist das auch der Grund für [...] die Nicht-Nutzung der Schnittstelle zu standardisiertem Chat.
-## standardisiertem Chat
+
 Eine Analyse zu "standardisiertem Chat" kann hier gefunden werden:
 https://github.com/JokerGermany/Freie-Messenger.de#standardisiertem-chat
 
