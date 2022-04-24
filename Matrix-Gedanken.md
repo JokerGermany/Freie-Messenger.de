@@ -118,7 +118,7 @@ Es gibt wohl auch einen Windows-Client, dieser wird aber offiziell nicht unterst
 ## [Grundsätzliches](https://www.freie-messenger.de/sys_matrix/gedanken/#grundsätzliches)
 > 1. Die Matrix-Bifröst-Brücke ist bisher noch nicht Über den Experimentalstatus (extern) hinaus gekommen („This bridge is in very active development currently and intended mainly for experimentation and evaluation purposes.“) - offensichtlich wird in anderen Brücken mehr Wertschöfpungspotential gesehen.
 
-Ich finde es schade, dass die XMPP-Community scheinbar keinerlei Intentionen zeigt, daran zu arbeiten es zu ändern.
+Ich finde es schade, dass die XMPP-Community scheinbar keinerlei Intentionen zeigt, daran zu arbeiten es zu ändern.  
 ¯\\\_(ツ)_/¯ Es ist einfach über etwas zu meckern, aber daran mitzuwirken, dass sich etwas ändert ist scheinbar nicht gewünscht...
 
 > 2. Austausch nur über Matrix
