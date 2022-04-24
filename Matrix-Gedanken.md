@@ -106,3 +106,10 @@ Schade das ohne Quellen einfach etwas behauptet wird. Wo wird etwas "immer behau
 Bei Matrix sind 1zu1 Räume automatisch verschlüsselt. z.B. in Element kann man dies nur sehr sehr umständlich umgehen.
 Erstellt man in Element private Räume ist eine Verschlüsselung ebenfalls vorausgewählt und muss aktiv abgewählt werden.
 Nur in öffentlichen Räumen muss aktiv die Verschlüsselung eingeschaltet werden, falls gewünscht.
+
+# [Electron](https://www.freie-messenger.de/sys_matrix/gedanken/#electron)
+> Es gibt keinen nativen Element-Desktopclient für Windows oder Linux.
+
+Das ist falsch.
+Für z.b. Linux kann ich [Fluffychat](https://fluffychat.im/) empfehlen.
+Es gibt wohl auch einen Windows-Client, dieser wird aber offiziell nicht unterstützt.
