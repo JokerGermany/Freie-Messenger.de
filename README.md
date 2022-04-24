@@ -20,7 +20,7 @@ https://www.freie-messenger.de/sys_matrix/gedanken/
 
 Interessant ist in diesem Zusammenhang, dass Jabber/XMPP nicht als Wort erwähnt wird.
 
-### Begriff internationaler Standard
+### Begriff
 Aber was ist ein internationaler Standard überhaupt?
 Schaut man sich mal die beiden Begriffe bei Wiktionary:
 #### Internatrional
@@ -38,6 +38,23 @@ https://de.wiktionary.org/wiki/Standard
 Hier ist es schon interessanter. Wenn man ehrlich ist, passt auf "Etablertes, weithin Verbreitetes" in den meisten Ländern leider am Besten WhatsApp. Nimmt man die "verbindliche Richtlinie" kann man eigentlich jegliches offene Protokoll oder sogar API als Standard bezeichnen.
 Bei Matrix sind diese zum Beispiel hier zu finden:
 https://spec.matrix.org/latest/
+
+## standardisiertem Chat
+Gern genannt wird auch "standardisiertem Chat"
+
+Aber was ist das überhaupt?
+### Begriff standardisiert
+https://de.wiktionary.org/wiki/standardisiert
+[1] durch einen Standard festgelegt
+
+Es wird also wieder auf [Standard](#Standard) verwiesen.
+
+Also auch in diesem Fall, eine Nebelkerze die alles heißen kann.
+
+
+# [Datenschutz/Privatsphäre](https://www.freie-messenger.de/sys_matrix/gedanken/#datenschutz-privatsphäre)
+> vermutlich ist das auch der Grund für [...] die Nicht-Nutzung der Schnittstelle zu standardisiertem Chat.
+Auch hier verweise ich 
 
 # Kritik einzelner Seiten
 Nachfolgend, getrennt in einer eigenen Datei, werden einzelne Seiten einzeln analysiert.  
