@@ -24,7 +24,7 @@ Interessant ist in diesem Zusammenhang, dass Jabber/XMPP nicht als Wort erwähnt
 ### Begriff
 Aber was ist ein internationaler Standard überhaupt?
 Schaut man sich mal die beiden Begriffe bei Wiktionary:
-#### Internatrional
+#### International
 https://de.wiktionary.org/wiki/international  
 [1] Nationen-übergreifend  
 [2] mehrere Nationen betreffend, auf diese Bezug nehmend  
@@ -60,6 +60,17 @@ https://www.freie-messenger.de/sys_matrix/gedanken/#kein-internetstandard
 Hier sei wieder auf [Standard](#Standard) verwiesen.
 Warum man es für wichtig hält for XMPP "Chat Standard" zu stellen und warum man das bei den anderen Messengern nicht macht, ist wohl das Geheimnis des Autors.
 
+## internationalen Protokolle
+Auch gerne wird von einem internationalen Protokoll gesprochen.  
+Beispiel:  
+https://www.freie-messenger.de/sys_matrix/gedanken/#unklare-positionierung  
+[Die Definition von International wurde oben schon mal erläutert](#international)  
+
+### Protokoll
+https://de.wiktionary.org/wiki/Protokoll  
+[4] Informatik, Telekommunikation: Satz von Befehlen, eine bestimmte Implementation, zur Steuerung der Kommunikation zwischen zwei Geräten, zum Beispiel zwischen zwei Computern
+
+Also auch in diesem Fall, eine Nebelkerze die alles heißen kann.
 # Kritik einzelner Seiten
 Nachfolgend, getrennt in einer eigenen Datei, werden einzelne Seiten einzeln analysiert.  
 [Matrix -> Gedanken](Matrix-Gedanken.md)
