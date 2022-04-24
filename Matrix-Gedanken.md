@@ -124,5 +124,5 @@ Ich finde es schade, dass die XMPP-Community scheinbar keinerlei Intentionen zei
 > 2. Austausch nur über Matrix
 Matrix-Brücken sind lediglich Brücken von/zu Matrix - ein direkter Austausch zwischen anderen Systemen ist damit nicht möglich. Folglich sind Brücken also Teil des Interoperabilitätsproblems und nicht der Problemlöser (das Selbe gilt auch für Brücken (“Transporte”), die es bei XMPP gibt!).
 
-Wenn ich eine Straße von Nürnberg nach Fürth baue, erwartet man dann auch, dass ich auf dieser Straße nach Hamburg fahren kann?
+Wenn ich eine Straße von Nürnberg nach Fürth baue, erwartet man dann auch, dass ich auf dieser Straße nach Hamburg fahren kann?  
 Weil ich auf der Straße nicht nach Hamburg fahren kann, ist dies Teil des Problems, warum ich nicht nach Hamburg fahren kann?
