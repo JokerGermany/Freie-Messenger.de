@@ -222,6 +222,6 @@ Eine Analyse zu "standardisiertem Chat" kann hier gefunden werden:
 https://github.com/JokerGermany/Freie-Messenger.de#internationaler-standard
 
 Wer entscheidet eigentliche welche Brücke wichtig und welche unwichtig ist?
-¯\\\_(ツ)_/¯  Also Matrix Brücke zu vielen standardisierten Chats und internationalen Standards.
+¯\\\_(ツ)_/¯  Also Matrix hat Brücken zu vielen standardisierten Chats und internationalen Standards.
 
 
