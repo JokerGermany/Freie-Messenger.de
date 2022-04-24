@@ -137,5 +137,12 @@ https://de.wiktionary.org/wiki/Interoperabilit%C3%A4t
     1] Plural selten: Fähigkeit der Zusammenarbeit von verschiedenen Systemen, Techniken oder Organisationen; insbesondere möglichst nahtloses Zusammenarbeiten, um Informationen auf effiziente und verwertbare Art und Weise auszutauschen beziehungsweise den Benutzern zur Verfügung zu stellen  
     [2] Informatik, Plural selten: Konstellation, in der mehrere Programme dasselbe Protokoll beziehungsweise dieselben Protokolle oder Datenformate verwenden können__
     
-
 ¯\\\_(ツ)_/¯  Arbeiten nicht verschiedene Systeme zusammen, wenn über verschiedene Messenger hinweg sich ausgetauscht werden kann?
+
+## [Rechtmäßigkeit und Zukunftssicherheit](https://www.freie-messenger.de/sys_matrix/gedanken/#rechtmäßigkeit-und-zukunftssicherheit)
+> Matrix wirbt damit, viele Brücken zu geschlossenen Messengerdiensten wie beispielsweise Discord, Facebook Messenger, Instagram, Signal, Threema, WeChat und auch WhatsApp zu haben: https://matrix.org/bridges (extern)
+>
+> Dabei ist jedoch nicht klar, ob es mit den jeweiligen Eigentümern von zentralen Diensten (z.B. Facebook, Microsoft, Apple oder Google - um mal die großen zu nennen) überhaupt Verträge diesbezüglich gibt oder nicht. Denn andere Clients als den eigenen zu nutzen ist nicht erwünscht. Vielleicht lohnt sich hier ein Blick in die Allgemeinen Geschäftsbedingungen der jeweiligen Anbieter …!?
+
+Und wenn man sich mit dem Thema beschäftigt, merkt man, dass es auch von der Art der Brücke abhängt.
+z.B. sind Brücken bei denen die Bots genutzt werden, z.B. bei Discord und Telegram, völlig unkritisch.
