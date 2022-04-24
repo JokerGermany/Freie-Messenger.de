@@ -14,7 +14,7 @@ Die Mitarbeit und Kritik an diesem Repository ist gewünscht!
 # Zentrale Kritikpunkte
 ## Internationaler Standard
 Ein Argument, das immer wieder kommt sind Formulierungen wie:
-> [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/) 
+> [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/)  
 Vorkommnisse zum Beispiel:
 https://www.freie-messenger.de/sys_matrix/gedanken/
 
@@ -41,6 +41,8 @@ https://spec.matrix.org/latest/
 
 ## standardisiertem Chat
 Gern genannt wird auch "standardisiertem Chat"
+Beispiel:
+https://www.freie-messenger.de/sys_matrix/gedanken/#datenschutz-privatsphäre
 
 Aber was ist das überhaupt?
 ### Begriff standardisiert
