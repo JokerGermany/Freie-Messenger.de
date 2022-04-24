@@ -63,9 +63,9 @@ https://github.com/JokerGermany/Freie-Messenger.de#chat-standard-xmpp
 > - Auch ein Beispiel dafür sind die sich immer wieder veränderten Spezifikationen für Räume, für die derzeit 9 verschiedene Versionen (extern), da sich Raumspezifikationen (wie erwartet) fortentwickeln.
 > Der angebliche Vorteil gegenüber dem Chatstandard XMPP von damals hat sich in Luft aufgelöst.
 
-Es gibt immer wenn es Verbesserungen oder Fehlerbehebungen gibt neue Versionen.
+Es gibt immer, wenn es Verbesserungen oder Fehlerbehebungen gibt, neue Versionen.
 Wenn man bei Matrix darauf achten, dass der HomeServer darauf bedacht ist seinen Server regelmäßig aktualisiert, dann bekommt man alle Features die Matrix bietet.
-Bei XMPP hingegen muss man auch auf eine neue Version achten und darauf achten, dass der Server auch alle gewünschten Erweiterungen unterstützt. Eine neue Version des Servers bedeutet bei XMPP aber leider nicht, dass alle Features unterstützt wird.
+Bei XMPP hingegen muss man auch auf eine neue Server-Version achten (z.B. wegen Sicherheitsupdates) und darauf achten, dass der Server auch alle gewünschten Erweiterungen unterstützt. Eine neue Version des Servers bedeutet bei XMPP aber leider nicht, dass alle Features unterstützt wird.
 Den Ist-Zustand kann man bei XMPP hier testen:  
 https://compliance.conversations.im/tests/
 Ob ein gewünschtes neues XEP (So heißen die Erweiterungen bei XMPP) unterstützt wird, steht allerdings in den Sternen.
