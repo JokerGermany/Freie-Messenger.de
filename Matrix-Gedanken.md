@@ -127,3 +127,12 @@ Matrix-Brücken sind lediglich Brücken von/zu Matrix - ein direkter Austausch z
 
 Wenn ich eine Straße von Nürnberg nach Fürth baue, erwartet man dann auch, dass ich auf dieser Straße nach Hamburg fahren kann?  
 Weil ich auf der Straße nicht nach Hamburg fahren kann, ist dies Teil des Problems, warum ich nicht nach Hamburg fahren kann?
+
+>  [...] um für übergreifende Kommunikaition (=/= Interoperabilität) [...]
+
+Schaut man sich die Definition von Interoperabilität an:  
+https://de.wiktionary.org/wiki/Interoperabilit%C3%A4t  
+    1] Plural selten: Fähigkeit der Zusammenarbeit von verschiedenen Systemen, Techniken oder Organisationen; insbesondere möglichst nahtloses Zusammenarbeiten, um Informationen auf effiziente und verwertbare Art und Weise auszutauschen beziehungsweise den Benutzern zur Verfügung zu stellen  
+    [2] Informatik, Plural selten: Konstellation, in der mehrere Programme dasselbe Protokoll beziehungsweise dieselben Protokolle oder Datenformate verwenden können__
+    
+¯\\\_(ツ)_/¯  Arbeiten nicht verschiedene Systeme zusammen, wenn über verschiedene Messenger hinweg sich ausgetauscht werden kann?
