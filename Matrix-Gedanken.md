@@ -55,3 +55,18 @@ Ja Matrix ist kein IETF-Standard, das ist korrekt. Meinen Informationen zurfolge
 Interessant hierbei ist, dass der Autor meint XMPP ein "Chat-Standard" voranstellen zu müssen.
 Mehr dazu hier:
 https://github.com/JokerGermany/Freie-Messenger.de#chat-standard-xmpp
+
+# [Monolithisches Protokoll](https://www.freie-messenger.de/sys_matrix/gedanken/#monolithisches-protokoll)
+> Der Ansatz, auf Modularität zu verzichten um keine Fragmentierung zu bekommen funktionierte zu Beginn wunderbar. Allerdings ist Stand heute (2022) schon eine gewisse Fragmentierung festzustellen:
+> - Es sind Matrix-Server mit unterschiedlichsten Versionen (extern) sowie verschiedenste Clients im Einsatz.
+> - Auch ein Beispiel dafür sind die sich immer wieder veränderten Spezifikationen für Räume, für die derzeit 9 verschiedene Versionen (extern), da sich Raumspezifikationen (wie erwartet) fortentwickeln.
+> Der angebliche Vorteil gegenüber dem Chatstandard XMPP von damals hat sich in Luft aufgelöst.
+
+Es gibt immer wenn es Verbesserungen oder Fehlerbehebungen gibt neue Versionen.
+Wenn man bei Matrix darauf achten, dass der HomeServer darauf bedacht ist seinen Server regelmäßig aktualisiert, dann bekommt man alle Features die Matrix bietet.
+Bei XMPP hingegen muss man auch auf eine neue Version achten und darauf achten, dass der Server auch alle gewünschten Erweiterungen unterstützt. Eine neue Version des Servers bedeutet bei XMPP aber leider nicht, dass alle Features unterstützt wird.
+Den Ist-Zustand kann man bei XMPP hier testen:  
+https://compliance.conversations.im/tests/
+Ob ein gewünschtes neues XEP (So heißen die Erweiterungen bei XMPP) unterstützt wird, steht allerdings in den Sternen.
+Deswegen hat man sich bei Matrix für ein Monolithisches Protokoll entschieden und dieser Vorteil hat sich defintiv NICHT in Luft aufgelöst.
+ 
