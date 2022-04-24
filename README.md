@@ -19,7 +19,7 @@ Ein Argument, das immer wieder kommt sind Formulierungen wie:
 Beispiel:
 https://www.freie-messenger.de/sys_matrix/gedanken/
 
-Interessant ist in diesem Zusammenhang, dass Jabber/XMPP nicht als Wort erwähnt wird.
+Interessant ist in diesem Zusammenhang, dass Jabber/XMPP nicht als Wort erwähnt wird, aber verlinkt.
 
 ### Begriff
 Aber was ist ein internationaler Standard überhaupt?
