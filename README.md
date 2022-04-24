@@ -1,5 +1,5 @@
 Freie-Messenger.de schreibt selber:
-https://www.freie-messenger.de/grundsaetzliches/
+https://www.freie-messenger.de/grundsaetzliches/ ([Archiviert am 2021-12-16](https://web.archive.org/web/20211216144331/https://www.freie-messenger.de/grundsaetzliches/))
 > Auf diesen Seiten soll ein neutraler Ein- und Überblick zum Thema „Freie Messenger“ gegeben werden
 
 Auf dieser Seite soll aufgezeigt werden, warum dies nicht der Fall ist.  
@@ -11,7 +11,7 @@ Im Gegenteil, oft sind die Argumente gut aufgearbeitet, aber die Schlussfolgerun
 
 # DMA
 Beispiele:
-1. https://www.freie-messenger.de/begriffe/interoperabilitaet/dma/
+1. https://www.freie-messenger.de/begriffe/interoperabilitaet/dma/ ([Archiviert am 2021-12-16](https://web.archive.org/web/20211216144331/https://www.freie-messenger.de/grundsaetzliches/))
 > Man kann an alle verantwortlichen Politiker also lediglich appellieren, hier ihrer öffentlichen Vorbildfunktion gerecht zu werden und über den DMA hinaus anbieterunabhängigen Chat auf der Basis von XMPP zumindest als Kontaktmöglichkeit anzubieten.
 
 Weswegen wird ausgerechnet auf einem Seitenteil, der nichts mit XMPP selber zu tun hat, ein "Chat auf der Basis von XMPP" gefordert?
