@@ -120,6 +120,7 @@ Es gibt wohl auch einen Windows-Client, dieser wird aber offiziell nicht unterst
 
 Ich finde es schade, dass die XMPP-Community scheinbar keinerlei Intentionen zeigt, daran zu arbeiten es zu ändern.  
 ¯\\\_(ツ)_/¯ Es ist einfach über etwas zu meckern, aber daran mitzuwirken, dass sich etwas ändert ist scheinbar nicht gewünscht...
+Eine Brücke ist keine Einbahnstraße...
 
 > 2. Austausch nur über Matrix
 Matrix-Brücken sind lediglich Brücken von/zu Matrix - ein direkter Austausch zwischen anderen Systemen ist damit nicht möglich. Folglich sind Brücken also Teil des Interoperabilitätsproblems und nicht der Problemlöser (das Selbe gilt auch für Brücken (“Transporte”), die es bei XMPP gibt!).
