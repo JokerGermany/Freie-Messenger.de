@@ -96,7 +96,7 @@ Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, kö
 > Auch ist es schwieriger sicherzustellen, daß bößwillig eingestellte strafrechtliche Inhalte auf allen (ab dem Zeitpunkt der Veröffentlichung) beteiligten Servern tatsächlich gelöscht werden.
 
 Für strafrechtliche Inhalte ist der Hoster, in diesem Fall also der Server selbst zuständig.  
-Weswegen sich der Autor hier Gedanken darüber macht, was der Server mit seiner Löschanforderung macht, ist mir schleierhaft.
+Weswegen sich der Autor hier Gedanken darüber macht, was passiert, wenn ein Server sich nicht gemäß der Matrix Spezifikationen verhält, ist mir schleierhaft.
 
 > Ich übernehme keine Verantwortung für geteilte Inhalte außerhalb der offiziellen Chaträume und auf von mir nicht gewählten Servern, da ich mögliche Folgen nicht abschätzen kann.
 
