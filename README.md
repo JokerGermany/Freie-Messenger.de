@@ -90,7 +90,7 @@ https://www.freie-messenger.de/kontakt/ ([Archiviert am 2022-04-25](https://web.
 Dabei funktioniert der Gruppenchat bei XMPP/Jabber ironischerweise GENAUSO wie Matrix mit dem Unterschied das nicht jeder Server ein Backup speichern MUSS.
 Der Nutzer kontaktiert seinen Heimserver welcher wiederum die Daten vom Chatserver, wo der Chat gehostet wird, abholt.
 Man stellt also fest, dass auch bei XMPP/Jabber die Daten quasi repliziert werden.
-Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, könnte er die Daten genauso zwischenspeichern wie es bei Matrix getan wird. Somit ist die Art der Datenverarbeitung NICHT unterschiedlich. Trotzdem ist man vollständig abhängig von dem einem Hauptchat-Server. Fällt dieser aus, ist der Gruppenchat bei XMPP/Jabber verloren.
+Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, könnte er die Daten genauso zwischenspeichern wie es bei Matrix getan wird. Somit ist die Art der Datenverarbeitung NICHT unterschiedlich. Trotzdem ist man vollständig abhängig von dem einem Hauptchat-Server. Fällt dieser aus, ist der Gruppenchat bei XMPP/Jabber verloren.  
 (Kopiert von [Matrix-Gedanken.md#replizierung-von-chatr%C3%A4umen](Matrix-Gedanken.md#replizierung-von-chatr%C3%A4umen))
 
 > Auch ist es schwieriger sicherzustellen, daß bößwillig eingestellte strafrechtliche Inhalte auf allen (ab dem Zeitpunkt der Veröffentlichung) beteiligten Servern tatsächlich gelöscht werden.
