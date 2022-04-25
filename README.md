@@ -60,8 +60,8 @@ https://www.freie-messenger.de/sys_matrix/gedanken/#kein-internetstandard
 Hier sei wieder auf [Standard](#Standard) verwiesen.
 Warum man es für wichtig hält for XMPP "Chat Standard" zu stellen und warum man das bei den anderen Messengern nicht macht, ist wohl das Geheimnis des Autors.
 
-## internationalen Protokolle
-Auch gerne wird von einem internationalen Protokoll gesprochen.  
+## internationale Protokolle
+Auch gerne wird von internationalen Protokoll gesprochen.  
 Beispiel:  
 https://www.freie-messenger.de/sys_matrix/gedanken/#unklare-positionierung  
 [Die Definition von International wurde oben schon mal erläutert](#international)  
@@ -82,3 +82,22 @@ Beispiele:
 
 Weswegen wird ausgerechnet auf einem Seitenteil, der nichts mit XMPP selber zu tun hat, ein "Chat auf der Basis von XMPP" gefordert?
 Warum nicht statt "Chat auf der Basis von XMPP" "Chat auf Basis eines freien Protokolls"?
+
+# Kontakt
+https://www.freie-messenger.de/kontakt/ ([Archiviert am 2022-04-25](https://web.archive.org/web/20220425094826/https://www.freie-messenger.de/kontakt/))
+> nicht genug Vertrauen bezüglich dem Datenschutz (dezentrale Architektur der Chaträume).
+
+Dabei funktioniert der Gruppenchat bei XMPP/Jabber ironischerweise GENAUSO wie Matrix mit dem Unterschied das nicht jeder Server ein Backup speichern MUSS.
+Der Nutzer kontaktiert seinen Heimserver welcher wiederum die Daten vom Chatserver, wo der Chat gehostet wird, abholt.
+Man stellt also fest, dass auch bei XMPP/Jabber die Daten quasi repliziert werden.
+Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, könnte er die Daten genauso zwischenspeichern wie es bei Matrix getan wird. Somit ist die Art der Datenverarbeitung NICHT unterschiedlich. Trotzdem ist man vollständig abhängig von dem einem Hauptchat-Server. Fällt dieser aus, ist der Gruppenchat bei XMPP/Jabber verloren.
+(Kopiert von [Matrix-Gedanken.md#replizierung-von-chatr%C3%A4umen](Matrix-Gedanken.md#replizierung-von-chatr%C3%A4umen))
+
+> Auch ist es schwieriger sicherzustellen, daß bößwillig eingestellte strafrechtliche Inhalte auf allen (ab dem Zeitpunkt der Veröffentlichung) beteiligten Servern tatsächlich gelöscht werden.
+
+Für strafrechtliche Inhalte ist der Hoster, in diesem Fall also der Server selbst zuständig.  
+Weswegen sich der Autor hier Gedanken darüber macht, was der Server mit seiner Löschanforderung macht, ist mir schleierhaft.
+
+> Ich übernehme keine Verantwortung für geteilte Inhalte außerhalb der offiziellen Chaträume und auf von mir nicht gewählten Servern, da ich mögliche Folgen nicht abschätzen kann.
+
+Hier würde mich interessieren welche Verantwortung der Autor den für geteilte Inhalte auf von ihm gewählten Servern übernimmt...
