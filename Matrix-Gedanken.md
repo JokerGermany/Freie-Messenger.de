@@ -1,7 +1,7 @@
 In diesem Dokument wird die Webseite https://www.freie-messenger.de/sys_matrix/gedanken/ analysiert.  
 
 
-Zuletzt angeschaute Version kann hier nachvollzogen werden:  
+Zuletzt analysierte Version kann hier nachvollzogen werden:  
 https://web.archive.org/web/20220424181426/https://www.freie-messenger.de/sys_matrix/gedanken/
 
 # [Vorwort](https://www.freie-messenger.de/sys_matrix/gedanken/#vorwort)
