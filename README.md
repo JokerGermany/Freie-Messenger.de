@@ -1,3 +1,5 @@
+[![Matrix Raum über Messenger #messenger-de:matrix.org](https://img.shields.io/matrix/messenger-de:matrix.org.svg?label=%23messenger-de:matrix.org&logo=matrix&server_fqdn=matrix.org)](https://matrix.to/#/#messenger-de:matrix.org)
+
 Freie-Messenger.de schreibt selber:
 https://www.freie-messenger.de/grundsaetzliches/ ([Archiviert am 2021-12-16](https://web.archive.org/web/20211216144331/https://www.freie-messenger.de/grundsaetzliches/))
 > Auf diesen Seiten soll ein neutraler Ein- und Überblick zum Thema „Freie Messenger“ gegeben werden
