@@ -14,7 +14,7 @@ https://www.bsi.bund.de/SharedDocs/Zulassung/DE/Produkte/Wire_Bund_BSI-VSA-10651
 
 Wieso kann davon ausgegangen werden?  
 Statt immer nur ÜBER Sachen zu schreiben, wäre es vielleicht auch mal sinnvoll, die Fragen an diejenigen zu stellen.
-In diesem Fall hätte es auch einfach gereicht die Presse zu verfolgen:
+In diesem Fall hätte es auch einfach gereicht die Presse zu verfolgen:  
 https://www.golem.de/news/bwmessenger-vom-messenger-der-bundeswehr-zum-bundesmessenger-2211-169472-2.html
 > Golem.de: Können die Behörden auch untereinander oder sogar mit Bürgern kommunizieren, die sich bei einem Matrix-Server angemeldet haben?
 >
