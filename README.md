@@ -76,6 +76,7 @@ Also auch in diesem Fall, eine Nebelkerze die alles heißen kann.
 # Kritik einzelner Seiten
 Nachfolgend, getrennt in einer eigenen Datei, werden einzelne Seiten einzeln analysiert.  
 [Matrix -> Gedanken](Matrix-Gedanken.md)
+[Messenger - Allgemein -> Verwaltung / BOS / Medien](verwaltung.md)
 
 # DMA
 Beispiele:
