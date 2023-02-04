@@ -1,4 +1,4 @@
-In diesem Dokument wird die Webseite https://www.freie-messenger.de/messenger/verwaltung /analysiert.  
+In diesem Dokument wird die Webseite https://www.freie-messenger.de/messenger/verwaltung analysiert.  
 
 
 Zuletzt analysierte Version kann hier nachvollzogen werden:  
@@ -23,8 +23,7 @@ https://www.golem.de/news/bwmessenger-vom-messenger-der-bundeswehr-zum-bundesmes
 Oder aus dem [Offiziellen Matrix Raum des Bundesmessengers](https://matrix.to/#/#opencodebum:matrix.org):
 > MMn steht das jedem Betreiber frei. Theoretisch wäre sogar eine Öffnung Richtung Bürger(beteiligung) möglich.
 Eine Föderation zwischen Behören/ÖV wäre sicher sinnvoll.
-
-
+---------------
 > Es wird ausdrücklich darauf hingewiesen, daß es sich das Projekt noch in der Beta-Phase befindet. Trotzdem wäre etwas mehr Information gut. Antworten auf Fragen wie z.B. …
 
 Wer keine Fragen stellt bzw noch nicht einmal die aktuelle Presse verfolgt, bekommt auch keine Antworten...
