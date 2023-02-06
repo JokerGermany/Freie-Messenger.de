@@ -22,7 +22,7 @@ Ach, was wäre doch eine Seite, die sich als total Neutral für alle Arten von F
 
 Mit dem absolut neutralen Einstieg kann es nur spannend werden...
 
----
+## An was soll sich beteiligt werden
 > Eng mit der Neutralität verbunden ist die Ende 2022 in einem [Blog-Artikel bei Matrix.org](https://matrix.org/blog/2022/12/01/funding-matrix-via-the-matrix-org-foundation) (extern) veröffentlichte Aufforderung, sich an der teuren Entwicklung (von was konkret?) zu beteiligen.
 
 Es wird in dem gleichen Artikel sogar aufgelistet, um welche Entwicklung es geht:
@@ -34,14 +34,16 @@ Es wird in dem gleichen Artikel sogar aufgelistet, um welche Entwicklung es geht
 - promoting awareness of Matrix
 - running the matrix.org homeserver
 - and so much more... 
----
+
+## Unterschied zwischen Matrix und Element
+
 > Allerdings ist nach dem Lesen des Artikels nicht ganz klar, ob das Protokoll „Matrix“ (es gibt keinen Krypto-Messenger „Matrix“!) an sich gefährdet ist, oder ob „lediglich“ die Softwareschmiede/der Dienstleister „Element” (New Vector) in Finanznot ist. Da wird einiges miteinander vermischt.
 
 Auf der Seite matrix.org geht es um die Matrix Foundation, nicht um Element, welche eine eigene Webseite namens element.io haben.
 Wenn mit vermischen gemeint ist, das Element bisher den größten Beitrag zu Matrix.org geleistet hat, dann hat der Autor recht.
 Aber es geht meiner Meinung nach ziemlich klar aus dem Artikel hervor, dass es um Matrix.org und nicht Element geht...
 
----
+## Frei Protokolle sind selber schuld, dass sie frei sind!
 > Hoppla! Harte Worte.
 Erst als Matrix.org ein freies Protokoll anpreisen - und sich dann bei/für Element über die selbst gewählte Lizenzierungsart beschweren?
 >
@@ -58,14 +60,14 @@ Und da muss man gar nicht so weit weg gucken: Einfach mal ein paar "harte" Worte
 https://matrix.to/#/!zKkcQGOapOjAMEBvZk:aria-net.org/$OMQ5IpwpMmjAE1LB3tDZi1rY2vGHPe7ox6zm5PCnvZY?via=aria-net.org&via=matrix.org&via=tchncs.de
 > Whatsapp *stole XMPP*
 
-Erst XMPP als ein freies Protokolla npreisen und sich dann über die selbst gewählte Lizensierungsart beschweren?  
+Erst XMPP als ein freies Protokoll anpreisen und sich dann über die selbst gewählte Lizensierungsart beschweren?  
 
 BTW: Ich weiß nicht, was Element hiermit zu tun hat?
 
 ---
 > Es scheint, daß die deutliche Aufforderung zur finanziellen Beteiligung tendenziell als Finanzspritze für die Entwicklerschmiede verstanden werden soll. Eine Klarheit, für welche Zwecke Gelder gefordert/verwendet werden, wäre schön.
 
-Aufgelistet hat der Artikel ja schon zu welchen Zwecke die Gelder gefordert/verwendet werden.
+Aufgelistet hat der Artikel und [ich](#an-was-soll-sich-beteiligt-werden) ja schon zu welchen Zwecke die Gelder gefordert/verwendet werden.
 Was auch immer mit "Entwicklerschmiede" gemeint ist...
 
 ---
@@ -73,14 +75,13 @@ Was auch immer mit "Entwicklerschmiede" gemeint ist...
 
 Ja genau und um genau deren Finanzierung geht es im kompletten Blog Beitrag...
 
---
-
+## IMAP und XMPP sind besser!
 > Zum Glück sind internationale Standards wie IMAP oder XMPP nicht genauso von einzelnen Geldgebern und Risikokapital abhängig.
 
-Genau, weil das freie Protokoll Matrix auch sterben würde, wenn die Matrix.org Foundation sterben würde.
-Da hat jemand mal wieder verstanden mit was es das "Frei" in Freie Messenger auf sich hat...
+Genau, weil der internationale Standard Matrix auch sterben würde, wenn die Matrix.org Foundation sterben würde.
+Da hat jemand verstanden mit was es das "Frei" in Freie Messenger auf sich hat...
 
---
+---
 > Fazit: Egal ob matrix.org oder element.im (New Vector): Man sollte nicht unter Apache lizensieren und sich hinterher beklagen!
 
 1. Wer bestimmt das?
