@@ -130,11 +130,15 @@ https://github.com/JokerGermany/Freie-Messenger.de#internationaler-standard
 Aber in diesem Text zeigt sich, weswegen der Autor glaubt, dass nur XMPP/Jabber ein internationaler Standard ist.
 > Matrix ist kein durch die IETF (extern) geprüftes, legitimiertes oder standardisiertes Protokoll. 
 
-Ja Matrix ist kein IETF-Standard, das ist korrekt. Meinen Informationen zurfolge ist langfristig tatsächlich der Plan, Matrix nach IETF zu standardisierem. Doch solange Matrix sich so schnell entwickelt wie es derzeit der Fall ist, möchte man lieber davon absehen, da schon jetzt die Spezifizierung eines neuen Matrix Specs sehr lange dauert und man befürchtet mit Einbindung der IETF die Spezifizierung noch längern dauern würde.
+Ja, man wollte, insbesondere während der schnellen Entwicklung des Kerns von Matrix, lieber davon absehen, da schon jetzt die Spezifizierung eines neuen Matrix Specs sehr lange dauert und man befürchtete mit Einbindung der IETF die Spezifizierung noch längern dauern würde.
+Aber Teile von Matrix sind mittlerweile als IETF Draft vorhanden:  
+https://www.ietf.org/id/draft-ralston-mimi-matrix-message-format-00.html  
+https://www.ietf.org/id/draft-ralston-mimi-matrix-transport-00.html
 
 Interessant hierbei ist, dass der Autor meint XMPP ein "Chat-Standard" voranstellen zu müssen.
 Mehr dazu hier:
 https://github.com/JokerGermany/Freie-Messenger.de#chat-standard-xmpp
+
 
 # [Monolithisches Protokoll](https://www.freie-messenger.de/matrix/gedanken/#monolithisches-protokoll)
 > Der Ansatz, auf Modularität zu verzichten um keine Fragmentierung zu bekommen funktionierte zu Beginn wunderbar. Allerdings ist Stand heute (2022) schon eine gewisse Fragmentierung festzustellen:
