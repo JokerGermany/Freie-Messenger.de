@@ -283,6 +283,10 @@ Jetzt ist es sogar schon ein internationaler Standard. WoW!
 
 
 # [Gründe für Matrix](https://www.freie-messenger.de/matrix/gedanken/#gründe-für-matrix)
+> Die Investitionen sollen sich natürlich lohnen und das ist bei der Verbesserung eines öffentlichen Standards nicht möglich.
+
+¯\\\_(ツ)_/¯ Also in den öffentlichen Standard Matrix gibt es Investitionen.
+
 > Und: Die damals bemängelte Fragmentierung findet nun auch schon bei Matrixstatt, so wie das beidezentralen Systemen ganz natürlich ist.
 
 Es ist ein Unterschied, ob die Fragmentierung nur auf Versionsbasis, oder auf Versions UND Featurebasis existiert.
