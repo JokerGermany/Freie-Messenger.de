@@ -1,10 +1,10 @@
-In diesem Dokument wird die Webseite https://www.freie-messenger.de/sys_matrix/gedanken/ analysiert.  
+In diesem Dokument wird die Webseite https://www.freie-messenger.de/matrix/gedanken/ analysiert.  
 
 
 Zuletzt analysierte Version kann hier nachvollzogen werden:  
-https://web.archive.org/web/20220424181426/https://www.freie-messenger.de/sys_matrix/gedanken/
+https://web.archive.org/web/20220424181426/https://www.freie-messenger.de/matrix/gedanken/
 
-# [Vorwort](https://www.freie-messenger.de/sys_matrix/gedanken/#vorwort)
+# [Vorwort](https://www.freie-messenger.de/matrix/gedanken/#vorwort)
 > Aber Matrix-Installationen können die dringend notwendige Interoperabilität unterstützen, wenn die vorhandene Schnittstelle zum [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/) auch tatsächlich in der Praxis freigeschaltet wird und genutzt werden kann.
 
 Der Begriff "internationaler Standard" wurde hier analysiert:  
@@ -12,7 +12,7 @@ https://github.com/JokerGermany/Freie-Messenger.de#internationaler-standard
 
 Was mit "vorhandene Schnittstelle in der Praxis freigeschaltet wird" gemeint ist, erschließt sich leider nicht.
 
-# [Datenschutz/Privatsphäre](https://www.freie-messenger.de/sys_matrix/gedanken/#datenschutz-privatsphäre)
+# [Datenschutz/Privatsphäre](https://www.freie-messenger.de/matrix/gedanken/#datenschutz-privatsphäre)
 > vermutlich ist das auch der Grund für [...] die Nicht-Nutzung der Schnittstelle zu standardisiertem Chat.
 
 Eine Analyse zu "standardisiertem Chat" kann hier gefunden werden:
@@ -48,7 +48,7 @@ Der Nutzer kontaktiert seinen Heimserver welcher wiederum die Daten vom Chatserv
 Man stellt also fest, dass auch bei XMPP/Jabber die Daten quasi repliziert werden.
 Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, könnte er die Daten genauso zwischenspeichern wie es bei Matrix getan wird. Somit ist die Art der Datenverarbeitung NICHT unterschiedlich. Trotzdem ist man vollständig abhängig von dem einem Hauptchat-Server. Fällt dieser aus, ist der Gruppenchat bei XMPP/Jabber verloren.
 
-# [Kein Internetstandard](https://www.freie-messenger.de/sys_matrix/gedanken/#kein-internetstandard)
+# [Kein Internetstandard](https://www.freie-messenger.de/matrix/gedanken/#kein-internetstandard)
 Das Matrix sehr wohl ein Internetstandard ist, habe ich schon hier erläutert:
 https://github.com/JokerGermany/Freie-Messenger.de#internationaler-standard
 
@@ -61,7 +61,7 @@ Interessant hierbei ist, dass der Autor meint XMPP ein "Chat-Standard" voranstel
 Mehr dazu hier:
 https://github.com/JokerGermany/Freie-Messenger.de#chat-standard-xmpp
 
-# [Monolithisches Protokoll](https://www.freie-messenger.de/sys_matrix/gedanken/#monolithisches-protokoll)
+# [Monolithisches Protokoll](https://www.freie-messenger.de/matrix/gedanken/#monolithisches-protokoll)
 > Der Ansatz, auf Modularität zu verzichten um keine Fragmentierung zu bekommen funktionierte zu Beginn wunderbar. Allerdings ist Stand heute (2022) schon eine gewisse Fragmentierung festzustellen:
 > - Es sind Matrix-Server mit unterschiedlichsten Versionen (extern) sowie verschiedenste Clients im Einsatz.
 > - Auch ein Beispiel dafür sind die sich immer wieder veränderten Spezifikationen für Räume, für die derzeit 9 verschiedene Versionen (extern), da sich Raumspezifikationen (wie erwartet) fortentwickeln.
@@ -91,20 +91,20 @@ Hier mal ein paar Anwendungszwecke abseits der "modernen IM Anforderungen":
 - [social media](https://minestrix.henri2h.fr/)
 - [Event-Management](https://gatho.party/)
  
-# [Föderation & Interoperabilität](https://www.freie-messenger.de/sys_matrix/gedanken/#föderation-interoperabilität)
+# [Föderation & Interoperabilität](https://www.freie-messenger.de/matrix/gedanken/#föderation-interoperabilität)
 Ja es sollte viel mehr Föderation genutzt werden.
 Aus meiner Beruflichen Laufbahn sind mir allerdings auch zahlreiche XMPP Server bekannt, die nicht föderieren.
 Dort gab es sogar innerhalb verschiedener Standorter von ein und derselben Firma verschiedene XMPP Server die noch nicht mal innerhalb der Firma föderiert haben.
 Hier wird übrigens erklärt, das XMPP auch im militärischen Einsatz eingesetzt wird und fragt sich warum dort die nicht vorhandene Föderation kein Thema ist...  
 https://www.freie-messenger.de/sys_xmpp/#militärischer-einsatz-nato
 
-# [Ressourcenbedarf](https://www.freie-messenger.de/sys_matrix/gedanken/#ressourcenbedarf)
+# [Ressourcenbedarf](https://www.freie-messenger.de/matrix/gedanken/#ressourcenbedarf)
 > Die einfachste Lösung für das Ressourcenproblem, das seitens Matrix derzeit mit „conduit“ (Beta-Status) (extern) versucht wird zu verbessern, ist die Einschränkung bei der Föderation. Um im Rahmen der vorhandenen technischen Möglichkeiten zu bleiben, werden deshalb manche Matrix-Instanzen nicht öffentlich betrieben.
 
 Conduit befindet sich nach wie vor im Beta Status. Die Information, dass Conduit keine Föderation kann, ist veraltet. Wenn man einen neuen Server entwickelt ist es teil des Entwicklungsprozesses Features nach und nach zu implementieren. Sind alle Features stabil implementiert endet auch die Beta Phase.
 Es gibt übrigens auch schon verschiedene Nachfolger von Conduit in der Entwicklung, die nochmals Ressourcenschonender sind.
 
-# [Verschlüsselung](https://www.freie-messenger.de/sys_matrix/gedanken/#verschlüsselung)
+# [Verschlüsselung](https://www.freie-messenger.de/matrix/gedanken/#verschlüsselung)
 > Trotzdem wird immer behauptet, bei Matrix wäre automatisch alles verschlüsselt. 
 
 Schade das ohne Quellen einfach etwas behauptet wird. Wo wird etwas "immer behauptet"?
@@ -112,15 +112,15 @@ Bei Matrix sind 1zu1 Räume automatisch verschlüsselt. z.B. in Element kann man
 Erstellt man in Element private Räume ist eine Verschlüsselung ebenfalls vorausgewählt und muss aktiv abgewählt werden.
 Nur in öffentlichen Räumen muss aktiv die Verschlüsselung eingeschaltet werden, falls gewünscht.
 
-# [Electron](https://www.freie-messenger.de/sys_matrix/gedanken/#electron)
+# [Electron](https://www.freie-messenger.de/matrix/gedanken/#electron)
 > Es gibt keinen nativen Element-Desktopclient für Windows oder Linux.
 
 Das ist falsch.
 Für z.b. Linux kann ich [Fluffychat](https://fluffychat.im/) empfehlen.
 Es gibt wohl auch einen Windows-Client, dieser wird aber offiziell nicht unterstützt.
 
-# [Brücken](https://www.freie-messenger.de/sys_matrix/gedanken/#brücken)
-## [Grundsätzliches](https://www.freie-messenger.de/sys_matrix/gedanken/#grundsätzliches)
+# [Brücken](https://www.freie-messenger.de/matrix/gedanken/#brücken)
+## [Grundsätzliches](https://www.freie-messenger.de/matrix/gedanken/#grundsätzliches)
 > 1. Die Matrix-Bifröst-Brücke ist bisher noch nicht Über den Experimentalstatus (extern) hinaus gekommen („This bridge is in very active development currently and intended mainly for experimentation and evaluation purposes.“) - offensichtlich wird in anderen Brücken mehr Wertschöfpungspotential gesehen.
 
 Ich finde es schade, dass die XMPP-Community scheinbar keinerlei Intentionen zeigt, daran zu arbeiten es zu ändern.  
@@ -144,7 +144,7 @@ https://de.wiktionary.org/wiki/Interoperabilit%C3%A4t
     
 ¯\\\_(ツ)_/¯  Arbeiten nicht verschiedene Systeme zusammen, wenn über verschiedene Messenger hinweg sich ausgetauscht werden kann?
 
-## [Rechtmäßigkeit und Zukunftssicherheit](https://www.freie-messenger.de/sys_matrix/gedanken/#rechtmäßigkeit-und-zukunftssicherheit)
+## [Rechtmäßigkeit und Zukunftssicherheit](https://www.freie-messenger.de/matrix/gedanken/#rechtmäßigkeit-und-zukunftssicherheit)
 > Matrix wirbt damit, viele Brücken zu geschlossenen Messengerdiensten wie beispielsweise Discord, Facebook Messenger, Instagram, Signal, Threema, WeChat und auch WhatsApp zu haben: https://matrix.org/bridges (extern)
 >
 > Dabei ist jedoch nicht klar, ob es mit den jeweiligen Eigentümern von zentralen Diensten (z.B. Facebook, Microsoft, Apple oder Google - um mal die großen zu nennen) überhaupt Verträge diesbezüglich gibt oder nicht. Denn andere Clients als den eigenen zu nutzen ist nicht erwünscht. Vielleicht lohnt sich hier ein Blick in die Allgemeinen Geschäftsbedingungen der jeweiligen Anbieter …!?
@@ -152,7 +152,7 @@ https://de.wiktionary.org/wiki/Interoperabilit%C3%A4t
 Und wenn man sich mit dem Thema beschäftigt, merkt man, dass es auch von der Art der Brücke abhängt.
 z.B. sind Brücken bei denen die Bots genutzt werden, z.B. bei Discord und Telegram, völlig unkritisch.
 
-## [Datenintegrität](https://www.freie-messenger.de/sys_matrix/gedanken/#datenintegrität)
+## [Datenintegrität](https://www.freie-messenger.de/matrix/gedanken/#datenintegrität)
 > Seit März 2022 verändert die die Matrix-Brücke (Bifröst) Inhalte und übersetzt neuerdings XMPP URIs (Adressen)
 
 Es ist schon faszinierend wie jemand, der immer wieder XMPP/Jabber versucht als DEN Standard hervorzuheben, das Prinzip von Diensten scheinbar nicht versteht.
@@ -177,7 +177,7 @@ Ich nehme an, das ist Ihre Meinung im Gegensatz zu anderen, die vielleicht tats�
 
 Ähm dort wird gar nichts angemerkt?!?
 
-## [Unklare Positionierung](https://www.freie-messenger.de/sys_matrix/gedanken/#unklare-positionierung)
+## [Unklare Positionierung](https://www.freie-messenger.de/matrix/gedanken/#unklare-positionierung)
 >Auf der einen Seite wird mit Brücken zwischen den Protokollen Matrix und XMPP geworben - auf der anderen Seite wird XMPP überhaupt nicht bei den Matrix-Brücken (extern) aufgeführt bzw. mit keinem Wort erwähnt. Zumindest nicht auf dieser wichtigen Seite.
 >
 >Um „XMPP“ zu finden, muß man unter „libpurple“ schauen, wo widerum auf „matrix-bifrost“ verwisen und der Hinweis “General purpose puppeting bridges using libpurple and other backends. This bridge is in very active development currently and intended mainly for experimentation and evaluation purposes.” gegeben wird. Erst auf der dort verlinkten Github-Seite steht bzw. findet man dann „XMPP“.
@@ -203,13 +203,13 @@ Schon wieder meint der Autor XMPP ein "Standard" voranstellen zu müssen...
 Jetzt ist es sogar schon ein internationaler Standard. WoW!
 
 
-# [Gründe für Matrix](https://www.freie-messenger.de/sys_matrix/gedanken/#gründe-für-matrix)
+# [Gründe für Matrix](https://www.freie-messenger.de/matrix/gedanken/#gründe-für-matrix)
 > Und: Die damals bemängelte Fragmentierung findet nun auch schon bei Matrixstatt, so wie das beidezentralen Systemen ganz natürlich ist.
 
 Es ist ein Unterschied, ob die Fragmentierung nur auf Versionsbasis, oder auf Versions UND Featurebasis existiert.
 Aber das wurde ja schon bei [#Monolithisches Protokoll](#monolithisches-protokoll) erläutert.
 
-# [Zusammenfassung / Fazit](https://www.freie-messenger.de/sys_matrix/gedanken/#zusammenfassung-fazit)
+# [Zusammenfassung / Fazit](https://www.freie-messenger.de/matrix/gedanken/#zusammenfassung-fazit)
 > Das Standardprotokoll, das WhatsApp tatsächlich mittelfristig in der Breite ersetzen kann, ist aus heutiger Sicht und mit diesem Hintergrundwissen nicht das Protokoll Matrix sondern anbieterunabhängier Chat (auf der Basis des Standards XMPP).
 
 Hier wird es jetzt ganz wild. Anbieterunabhängiger Chat, was soll das sein? Ist Matrix nicht anbieterunabhäng?
