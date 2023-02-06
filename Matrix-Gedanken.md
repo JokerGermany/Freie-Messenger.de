@@ -12,6 +12,11 @@ https://github.com/JokerGermany/Freie-Messenger.de#internationaler-standard
 
 Was mit "vorhandene Schnittstelle in der Praxis freigeschaltet wird" gemeint ist, erschließt sich leider nicht.
 
+# [Neutralität](https://www.freie-messenger.de/sys_matrix/gedanken/#neutralität)
+> Heißt das dann im Umkehrschluß, daß die Firma New Vector derart einflussreich ist, daß sie es namentlich in die „Rules“ schafft, um keinen besonderen Einfluss haben zu sollen? 
+
+Ach, was wäre doch eine Seite, die sich als total Neutral für alle Arten von Freie Messenger ausgibt, ohne [FUD](https://de.wikipedia.org/wiki/Fear,_Uncertainty_and_Doubt) gegen einen freien Messenger?
+
 # [Datenschutz/Privatsphäre](https://www.freie-messenger.de/matrix/gedanken/#datenschutz-privatsphäre)
 > vermutlich ist das auch der Grund für [...] die Nicht-Nutzung der Schnittstelle zu standardisiertem Chat.
 
