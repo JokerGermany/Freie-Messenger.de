@@ -88,14 +88,10 @@ Da hat jemand verstanden mit was es das "Frei" in Freie Messenger auf sich hat..
 2. Wird wie oben schon geschrieben selbst bei dem eine Zeile vorher erwähnten Protokoll XMPP gemacht...
 
 # [Datenschutz/Privatsphäre](https://www.freie-messenger.de/matrix/gedanken/#datenschutz-privatsphäre)
-> vermutlich ist das auch der Grund für [...] die Nicht-Nutzung der Schnittstelle zu standardisiertem Chat.
+> vermutlich ist das auch der Grund für [...] die Nicht-Nutzung der Schnittstelle zu standardisiertem Chat (XMPP).
 
 Eine Analyse zu "standardisiertem Chat" kann hier gefunden werden:
 https://github.com/JokerGermany/Freie-Messenger.de#standardisiertem-chat
-
-Zusammenfassend kann man sagen, dass sehr wohl eine "Schnittstelle zu standardisiertem Chat" genutzt wird.
-https://spec.matrix.org/latest/
-
 
 ## volle Kontrolle über ihre Kommunikation
 >Es wird auch nicht damit geworben, daß Nutzer die volle Kontrolle über ihre Kommunikation behalten - statt dessen ist der Vorteil lt. Matrix:
@@ -113,6 +109,10 @@ Dabei ist der Grund dafür, warum man Föderation lieber nicht erlaubt, mit Date
 Man hat Sorge das Mitarbeiter versentlich Daten in die Öffentlichkeit verschicken.
 
 Was dies allerdings mit Matrix an sich zu tun hat, bleibt wohl das Geheimnis des Autors der Webseite.
+
+## [Amdocs](https://www.freie-messenger.de/matrix/gedanken/#amdocs)
+Der Quelltext und die API sind vollkommen offen. Wenn der Autor darin gefunden hat, das alle Daten zu Amdocs geschickt werden, soll er das doch bitte veröffentlichen.
+Aber der Autor spricht über Amdocs, ohne irgendwelche sinnvollen Verbindungen herzustellen. Es wird einfach nur versucht [FUD](https://de.wikipedia.org/wiki/Fear,_Uncertainty_and_Doubt) aufzubauen.
 
 ## Replizierung von Chaträumen
 > Das Grundkonzept von Matrix ist die Replizierung von Chaträumen (auch 1:1-Chats) auf alle am jeweiligen Chat beteiligten Server. Und genau das führt nicht nur zu höherem Ressourcenverbrauch (s.u.), sondern ist auch bei öffentlicher Föderation datenschutztechnisch problematisch. Vermutlich müsste der Auftrag zur Datenverarbeitung jeweils erweitert werden, was praktisch kaum möglich ist. Eine Lösung hier ist nur, bei der Kommunikation mit anderen Systemen auf standardisierte Schnittstellen zurückzugreifen, die keine Replizierung von Datenbanken erfordern.
