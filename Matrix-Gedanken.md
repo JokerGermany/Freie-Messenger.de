@@ -2,7 +2,7 @@ In diesem Dokument wird die Webseite https://www.freie-messenger.de/matrix/gedan
 
 
 Zuletzt analysierte Version kann hier nachvollzogen werden:  
-https://web.archive.org/web/20220424181426/https://www.freie-messenger.de/matrix/gedanken/
+https://web.archive.org/web/20220424181426/https://www.freie-messenger.de/sys_matrix/gedanken/
 
 # [Vorwort](https://www.freie-messenger.de/matrix/gedanken/#vorwort)
 > Aber Matrix-Installationen können die dringend notwendige Interoperabilität unterstützen, wenn die vorhandene Schnittstelle zum [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/) auch tatsächlich in der Praxis freigeschaltet wird und genutzt werden kann.
