@@ -2,7 +2,7 @@ In diesem Dokument wird die Webseite https://www.freie-messenger.de/matrix/gedan
 
 
 Zuletzt analysierte Version kann hier nachvollzogen werden:  
-https://web.archive.org/web/20220424181426/https://www.freie-messenger.de/sys_matrix/gedanken/
+https://web.archive.org/web/20230204230247/https://www.freie-messenger.de/matrix/gedanken/
 
 # [Vorwort](https://www.freie-messenger.de/matrix/gedanken/#vorwort)
 > Aber Matrix-Installationen können die dringend notwendige Interoperabilität unterstützen, wenn die vorhandene Schnittstelle zum [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/) auch tatsächlich in der Praxis freigeschaltet wird und genutzt werden kann.
@@ -16,6 +16,75 @@ Was mit "vorhandene Schnittstelle in der Praxis freigeschaltet wird" gemeint ist
 > Heißt das dann im Umkehrschluß, daß die Firma New Vector derart einflussreich ist, daß sie es namentlich in die „Rules“ schafft, um keinen besonderen Einfluss haben zu sollen? 
 
 Ach, was wäre doch eine Seite, die sich als total Neutral für alle Arten von Freie Messenger ausgibt, ohne [FUD](https://de.wikipedia.org/wiki/Fear,_Uncertainty_and_Doubt) gegen einen freien Messenger?
+
+# [Finanzierung/Lizensierung](https://www.freie-messenger.de/matrix/gedanken/#finanzierung-lizensierung)
+> Ist Matrix gefährdet?
+
+Mit dem absolut neutralen Einstieg kann es nur spannend werden...
+
+---
+> Eng mit der Neutralität verbunden ist die Ende 2022 in einem [Blog-Artikel bei Matrix.org](https://matrix.org/blog/2022/12/01/funding-matrix-via-the-matrix-org-foundation) (extern) veröffentlichte Aufforderung, sich an der teuren Entwicklung (von was konkret?) zu beteiligen.
+
+Es wird in dem gleichen Artikel sogar aufgelistet, um welche Entwicklung es geht:
+- managing the Matrix spec itself
+- maintaining the reference client SDKs and encryption and getting them independently audited
+- maintaining example server implementations in the form of Synapse and Dendrite
+- writing the test suite
+- publishing the matrix.org website
+- promoting awareness of Matrix
+- running the matrix.org homeserver
+- and so much more... 
+---
+> Allerdings ist nach dem Lesen des Artikels nicht ganz klar, ob das Protokoll „Matrix“ (es gibt keinen Krypto-Messenger „Matrix“!) an sich gefährdet ist, oder ob „lediglich“ die Softwareschmiede/der Dienstleister „Element” (New Vector) in Finanznot ist. Da wird einiges miteinander vermischt.
+
+Auf der Seite matrix.org geht es um die Matrix Foundation, nicht um Element, welche eine eigene Webseite namens element.io haben.
+Wenn mit vermischen gemeint ist, das Element bisher den größten Beitrag zu Matrix.org geleistet hat, dann hat der Autor recht.
+Aber es geht meiner Meinung nach ziemlich klar aus dem Artikel hervor, dass es um Matrix.org und nicht Element geht...
+
+---
+> Hoppla! Harte Worte.
+Erst als Matrix.org ein freies Protokoll anpreisen - und sich dann bei/für Element über die selbst gewählte Lizenzierungsart beschweren?
+>
+>Daß es bei kommerziellen Implementierungen evtl. keine Spenden und keine Zusammenarbeit gibt, ist bei der gewählten Lizensierung logisch. Man muß damit rechnen und sollte weder jammern noch mit Forderungen auftreten. 
+
+Ist es nicht traurig, dass eine Webseite die sich "Freie Messenger" nennt, nicht versteht was mit Frei bei der Lizensierung gemeint ist?
+https://www.gnu.org/philosophy/free-sw.html
+> Freie Software ist Software, die die Freiheit und Gemeinschaft der Nutzer respektiert. Ganz allgemein bedeutet das, dass Nutzer die Freiheit haben Software auszuführen, zu kopieren, zu verbreiten, zu untersuchen, zu ändern und zu verbessern. Freie Software ist daher eine Frage der Freiheit, nicht des Preises. Um das Konzept zu verstehen sollte man an frei wie in Redefreiheit denken, nicht wie in Freibier. Manchmal nennen wir sie auch Libre Software, dem französischen bzw. spanischen Wort für frei wie in Freiheit entlehnt, um deutlich zu machen, dass wir uns keinesfalls auf Software beziehen die gratis sei.
+
+Natürlich bedeutet das auch, dass es Leute gibt, die das nutzen, aber absolut nichts zurückgeben.  
+Aber die Matrix.org Foundation sind nicht die ersten und werden nicht die letzten sein, die das auch frustriert.
+
+Und da muss man gar nicht so weit weg gucken: Einfach mal ein paar "harte" Worte aus der XMPP Community:  
+https://matrix.to/#/!zKkcQGOapOjAMEBvZk:aria-net.org/$OMQ5IpwpMmjAE1LB3tDZi1rY2vGHPe7ox6zm5PCnvZY?via=aria-net.org&via=matrix.org&via=tchncs.de
+> Whatsapp *stole XMPP*
+
+Erst XMPP als ein freies Protokolla npreisen und sich dann über die selbst gewählte Lizensierungsart beschweren?  
+
+BTW: Ich weiß nicht, was Element hiermit zu tun hat?
+
+---
+> Es scheint, daß die deutliche Aufforderung zur finanziellen Beteiligung tendenziell als Finanzspritze für die Entwicklerschmiede verstanden werden soll. Eine Klarheit, für welche Zwecke Gelder gefordert/verwendet werden, wäre schön.
+
+Aufgelistet hat der Artikel ja schon zu welchen Zwecke die Gelder gefordert/verwendet werden.
+Was auch immer mit "Entwicklerschmiede" gemeint ist...
+
+---
+> Wurde nicht gerade deshalb die Stiftung gegründet, die sich doch unabhängig um die Fortentwicklung des Matrix-Protokolls kümmern soll?
+
+Ja genau und um genau deren Finanzierung geht es im kompletten Blog Beitrag...
+
+--
+
+> Zum Glück sind internationale Standards wie IMAP oder XMPP nicht genauso von einzelnen Geldgebern und Risikokapital abhängig.
+
+Genau, weil das freie Protokoll Matrix auch sterben würde, wenn die Matrix.org Foundation sterben würde.
+Da hat jemand mal wieder verstanden mit was es das "Frei" in Freie Messenger auf sich hat...
+
+--
+> Fazit: Egal ob matrix.org oder element.im (New Vector): Man sollte nicht unter Apache lizensieren und sich hinterher beklagen!
+
+1. Wer bestimmt das?
+2. Wird wie oben schon geschrieben selbst bei dem eine Zeile vorher erwähnten Protokoll XMPP gemacht...
 
 # [Datenschutz/Privatsphäre](https://www.freie-messenger.de/matrix/gedanken/#datenschutz-privatsphäre)
 > vermutlich ist das auch der Grund für [...] die Nicht-Nutzung der Schnittstelle zu standardisiertem Chat.
