@@ -42,7 +42,7 @@ Nur weil etwas MAL auf einer Basis erstellt wurde, heißt nicht, dass es noch gu
 Ich bezweifle, dass die 
 > Zurverfügungstellung einer Schnittstelle [...] also technisch relativ einfach und schnell möglich
 
-wäre
+wäre.
 
 Auch wird WhatsApp sehr wahrscheinlich keine Föderation erlauben, wie man sie z.B. zwischen zwei XMPP Servern kennt.
 Es wird eher in den öffentlichen Bereich "übersetzt" um klar zwischen Intern und Extern trennen zu können, um seine eigene Entwicklung, die man sehr wahrscheinlich absichtlich abgetrennt von der Basis gemacht hat, weiter fortführen zu können.
