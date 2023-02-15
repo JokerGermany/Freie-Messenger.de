@@ -16,7 +16,7 @@ Ja, sehe ich auch so, die Politik könnte tatsächlich mehr tun indem sie z.B. d
 Meiner Vermutung nach wäre es dafür allerdings mittlerweile zu spät...  
 
 Aber alles in allem muss man auch sagen:  
-Es ist ziemlich einfach erst mit seiner Kaufentscheidung sich in die Bredouille zu bringen und dann nach Reglementierung des Staates zu rufen...  
+Es ist ziemlich einfach erst mit seiner "Kaufentscheidung" sich in die Bredouille zu bringen und dann nach Reglementierung des Staates zu rufen...  
 Mit "sich" meine ich die vielen Millionen Nutzer von walled garden, die somit quasi per Demokratie entschieden haben...
 
 # [Privatbereich](https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/#privatbereich)
@@ -32,7 +32,7 @@ Warum sollte man das müssen?
 > So gibt es auch für Chat einen Standard
 
 [Was ein Standard ist, habe ich schon hier erläutert.](README.md#standard)  
-Ich zitiere hier mal mein daraus gezogenes Fazit, auch wenn es nicht unbedingt das ist was ein Enthusiast für freie Messenger gerne hören möchte. Aber es ist ebena uch wichtig sich der Realität nicht zu verschließen.
+Ich zitiere hier mal mein daraus gezogenes Fazit, auch wenn es nicht unbedingt das ist was ein Enthusiast für freie Messenger gerne hören möchte. Aber es ist eben auch wichtig sich der Realität nicht zu verschließen.
 > Hier ist es schon interessanter. Wenn man ehrlich ist, passt auf "Etablertes, weithin Verbreitetes" in den meisten Ländern leider am Besten WhatsApp. Nimmt man die "verbindliche Richtlinie" kann man eigentlich jegliches offene Protokoll oder sogar API als Standard bezeichnen.
 
 ## [XMPP bei bestehenden Diensten](https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/#xmpp-bei-bestehenden-diensten)
