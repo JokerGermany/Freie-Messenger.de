@@ -75,8 +75,10 @@ https://de.wiktionary.org/wiki/Protokoll
 Also auch in diesem Fall, eine Nebelkerze die alles heißen kann.
 # Kritik einzelner Seiten
 Nachfolgend, getrennt in einer eigenen Datei, werden einzelne Seiten einzeln analysiert.  
+[Messenger - Allgemein -> Verwaltung / BOS / Medien](verwaltung.md)  
 [Matrix -> Gedanken](Matrix-Gedanken.md)  
-[Messenger - Allgemein -> Verwaltung / BOS / Medien](verwaltung.md)
+[Begriffe -> interoperabilität -> Gedanken](interoperablitaet-gedanken.md)
+
 
 # DMA
 Beispiele:
