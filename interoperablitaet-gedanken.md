@@ -40,7 +40,9 @@ Ich zitiere hier mal mein daraus gezogenes Fazit, auch wenn es nicht unbedingt d
 
 Nur weil etwas MAL auf einer Basis erstellt wurde, heißt nicht, dass es noch gut kompatibel zu dem ursprünglichen Basis ist.  
 Ich bezweifle, dass die 
-> Zurverfügungstellung einer Schnittstelle wäre also technisch relativ einfach und schnell möglich.
+> Zurverfügungstellung einer Schnittstelle [...] also technisch relativ einfach und schnell möglich
+
+wäre
 
 Auch wird WhatsApp sehr wahrscheinlich keine Föderation erlauben, wie man sie z.B. zwischen zwei XMPP Servern kennt.
 Es wird eher in den öffentlichen Bereich "übersetzt" um klar zwischen Intern und Extern trennen zu können, um seine eigene Entwicklung, die man sehr wahrscheinlich absichtlich abgetrennt von der Basis gemacht hat, weiter fortführen zu können.
@@ -52,9 +54,9 @@ Es wird eher in den öffentlichen Bereich "übersetzt" um klar zwischen Intern u
 Wer schiebt hier eine Verantwortung ab? Die Entwickler von Brücken zu WhatsApp machen was in ihrer Macht steht. Ansonsten gäbe es gar keine Brücke...  
 
 Im Kapitel [Interoperabilitätsverpflichtung](https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/#interoperabilitätsverpflichtung) hat sich der Autor im letzten Satz gegen eine Interoperabilitätsverpflichtung ausgesprochen.
-> Interoperabilität ja aber keine Interoperabilitätsverpflichtun
+> Interoperabilität ja aber keine Interoperabilitätsverpflichtung
 
-Die heutigen Brücken sind genau das maximal mögliche, wenn man sich gegen eine Interoperabilitätsverpflichtung ausspricht...
+Die heutigen Brücken sind genau das maximal Mögliche, wenn man sich gegen eine Interoperabilitätsverpflichtung ausspricht...
 
 # [Werbeversprechen](https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/#werbeversprechen)
 > “Homeserver anderer Matrix Messenger Anbieter sind ausgeschlossen.“ bedeutet: Keine öffentliche Föderation und keine offene Interoperabilität in der Praxis. Also etwas ganz anderes als das, was auf der Startseite mehrfach angepriesen und von unbedarften Lesern so verstanden wird.
