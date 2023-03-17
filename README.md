@@ -42,7 +42,7 @@ Hier ist es schon interessanter. Wenn man ehrlich ist, passt auf "Etablertes, we
 Bei Matrix sind diese zum Beispiel hier zu finden:
 https://spec.matrix.org/latest/
 
-Um mal eine andere Meinung zu zitieren:
+Um mal eine andere Meinung zu zitieren:  
 https://educatedguesswork.org/posts/dma-interop/#common-versus-gatekeeper-specific-interfaces%2Fprotocols
 > [...], but "standards" can mean anything from "this is what everyone does" to "this is ratified by the International Telecommunications Union (ITU)"
 
