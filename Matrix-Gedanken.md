@@ -173,7 +173,7 @@ Hier mal ein paar Anwendungszwecke abseits der "modernen IM Anforderungen":
 # [Föderation & Interoperabilität](https://www.freie-messenger.de/matrix/gedanken/#föderation-interoperabilität)
 Ja es sollte viel mehr Föderation genutzt werden.
 Aus meiner Beruflichen Laufbahn sind mir allerdings auch zahlreiche XMPP Server bekannt, die nicht föderieren.
-Dort gab es sogar innerhalb verschiedener Standorter von ein und derselben Firma verschiedene XMPP Server die noch nicht mal innerhalb der Firma föderiert haben.
+Dort gab es sogar innerhalb verschiedener Standorte von ein und derselben Firma verschiedene XMPP Server die noch nicht mal innerhalb der Firma föderiert haben.
 Hier wird übrigens erklärt, das XMPP auch im militärischen Einsatz eingesetzt wird und fragt sich warum dort die nicht vorhandene Föderation kein Thema ist...  
 https://www.freie-messenger.de/sys_xmpp/#militärischer-einsatz-nato
 
