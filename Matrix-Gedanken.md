@@ -43,7 +43,7 @@ Auf der Seite matrix.org geht es um die Matrix Foundation, nicht um Element, wel
 Wenn mit vermischen gemeint ist, das Element bisher den größten Beitrag zu Matrix.org geleistet hat, dann hat der Autor recht.
 Aber es geht meiner Meinung nach ziemlich klar aus dem Artikel hervor, dass es um Matrix.org und nicht Element geht...
 
-## Frei Protokolle sind selber schuld, dass sie frei sind!
+## Freie Protokolle sind selber schuld, dass sie frei sind!
 > Hoppla! Harte Worte.
 Erst als Matrix.org ein freies Protokoll anpreisen - und sich dann bei/für Element über die selbst gewählte Lizenzierungsart beschweren?
 >
