@@ -135,14 +135,14 @@ Aber Teile von Matrix sind mittlerweile als IETF Draft vorhanden:
 https://www.ietf.org/id/draft-ralston-mimi-matrix-message-format-00.html  
 https://www.ietf.org/id/draft-ralston-mimi-matrix-transport-00.html
 
-Auch sind die Erfahrungen die Matthew, the Technical Co-founder Matrix.org, aus der MIMI Working Group gezogen hat, nicht unbedingt positiv.
+Auch sind die Erfahrungen die Matthew, the Technical Co-founder Matrix.org, aus der MIMI Working Group gezogen hat, nicht unbedingt positiv.  
 https://matrix.to/#/!NasysSDfxKxZBzJJoE:matrix.org/$uiF9wC3lW9mFjjH2jegDfXgBUbscIacPmXffjLb0dn4?via=matrix.org&via=envs.net&via=element.io
 > in theory IETF is meant to be independents trying to make the world a better place
 > in practice, it ain't.
 > people just represent the interests of their employers. including us, i guess
 > at least based on my observations 
 
-Auch ein anderer User pflichtet dem Bei:
+Auch ein anderer User pflichtet dem Bei:  
 https://matrix.to/#/!NasysSDfxKxZBzJJoE:matrix.org/$n8HF5KrGF90xPsuvBGomvXVLfRRrEVBu3iNoQr-mI5I?via=matrix.org&via=envs.net&via=element.io
 > I guess the thing why I prefer msc over ietf is that you are able to voice yourself even independently equally easily. You cant Do that with ietf. It's really hard to reach them sometimes (some are better than others of course. The security.txt people are easy to reach but they also are coming from a foss World...)
 > Ietf sometimes feels like it's meant to prefer companies over individuals 
