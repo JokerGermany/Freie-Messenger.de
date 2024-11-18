@@ -2,7 +2,7 @@ In diesem Dokument wird die Webseite https://www.freie-messenger.de/matrix/gedan
 
 
 Zuletzt analysierte Version kann hier nachvollzogen werden:  
-https://web.archive.org/web/20230204230247/https://www.freie-messenger.de/matrix/gedanken/
+https://web.archive.org/web/20241118123946/https://www.freie-messenger.de/matrix/gedanken/
 
 # [Vorwort](https://www.freie-messenger.de/matrix/gedanken/#vorwort)
 > Aber Matrix-Installationen können die dringend notwendige Interoperabilität unterstützen, wenn die vorhandene Schnittstelle zum [internationalen Standard im Bereich Chat](https://www.freie-messenger.de/sys_xmpp/) auch tatsächlich in der Praxis freigeschaltet wird und genutzt werden kann.
@@ -190,10 +190,10 @@ Hier wird übrigens erklärt, das XMPP auch im militärischen Einsatz eingesetzt
 https://www.freie-messenger.de/sys_xmpp/#militärischer-einsatz-nato
 
 # [Ressourcenbedarf](https://www.freie-messenger.de/matrix/gedanken/#ressourcenbedarf)
-> Die einfachste Lösung für das Ressourcenproblem, das seitens Matrix derzeit mit „conduit“ (Beta-Status) (extern) versucht wird zu verbessern, ist die Einschränkung bei der Föderation. Um im Rahmen der vorhandenen technischen Möglichkeiten zu bleiben, werden deshalb manche Matrix-Instanzen nicht öffentlich betrieben.
+> These/Frage:
+> Bei Matrix-Instanzen ohne Föderation müsste eine verbessere Interoperabilität ressourcenschonend auch durch die Nutzung des Chatstandards und der Schnittstelle “XMPP” möglich sein?
 
-Conduit befindet sich nach wie vor im Beta Status. Die Information, dass Conduit keine Föderation kann, ist veraltet. Wenn man einen neuen Server entwickelt ist es teil des Entwicklungsprozesses Features nach und nach zu implementieren. Sind alle Features stabil implementiert endet auch die Beta Phase.
-Es gibt übrigens auch schon verschiedene Nachfolger von Conduit in der Entwicklung, die nochmals Ressourcenschonender sind.
+Das Problem in diesem Fall am "Ressourcenschonenden" XMPP erfährt der Autor des Artikels momentan am eigenem Leib. Da er dem Server jabber.de nicht mehr ausreichend vertraut muss er alle seine Räume die dort liegen umziehen. Mir persönlich gefällt diese Zentralisierung nicht. Bei Matrix würde sich nichts ändern, da der Raum nicht auf einem eigenem Server liegt. Ich bin eher für Dezentralität und nehme das mehr an Ressourcen in Kauf...
 
 # [Verschlüsselung](https://www.freie-messenger.de/matrix/gedanken/#verschlüsselung)
 > Trotzdem wird immer behauptet, bei Matrix wäre automatisch alles verschlüsselt. 
@@ -204,15 +204,14 @@ Erstellt man in Element private Räume ist eine Verschlüsselung ebenfalls vorau
 Nur in öffentlichen Räumen muss aktiv die Verschlüsselung eingeschaltet werden, falls gewünscht.
 
 # [Electron](https://www.freie-messenger.de/matrix/gedanken/#electron)
-> Es gibt keinen nativen Element-Desktopclient für Windows oder Linux.
+> Der Referenzclient Element ist eine Electron-Anwendung und deshalb für manche ein (Un-)Sicherheitsfaktor. Die Anwendung ist in einen eigenen Browser eingebettet und müsste auch bei jedem Sicherheitsupdate des Browsers mit aktualisiert werden. Zudem benötigen Electron-Anwendungen mehr Speicherressourcen als native Programme/Apps. Das ist jedoch kein spezifisches Matrix-Phänomen sondern ist bei allen Electron-Anwedungen so.
 
-Das ist falsch.
-Für z.b. Linux kann ich [Fluffychat](https://fluffychat.im/) empfehlen.
-Es gibt wohl auch einen Windows-Client, dieser wird aber offiziell nicht unterstützt.
+Ich weiß nicht wie der Autor auf "Referenzclient" kommt. Ja ich würde jedem auch Element empfehlen, das macht ihn aber noch lange nicht zum Referenzclient.
+Wenn man Electron in Form von Element nicht nutzen möchte, kann man andere Clients nutzen. Nheko oder Fluffychat zum Beispiel.
 
 # [Brücken](https://www.freie-messenger.de/matrix/gedanken/#brücken)
 ## [Grundsätzliches](https://www.freie-messenger.de/matrix/gedanken/#grundsätzliches)
-> 1. Die Matrix-Bifröst-Brücke ist bisher noch nicht Über den Experimentalstatus (extern) hinaus gekommen („This bridge is in very active development currently and intended mainly for experimentation and evaluation purposes.“) - offensichtlich wird in anderen Brücken mehr Wertschöfpungspotential gesehen.
+> 1. Die Matrix-Bifröst-Brücke ist bisher noch nicht Über den Experimentalstatus (extern; 01.02.2023) hinaus gekommen („This bridge is in very active development currently and intended mainly for experimentation and evaluation purposes.“) - offensichtlich wird in anderen Brücken mehr Wertschöfpungspotential gesehen. Die Original-Bifröst-Brücke ist nicht stabil und wird nicht aktiv weiterentwicklet. Deshalb wird in Nutzerforen allgemein empfohlen, die Bifröst-Variante von aria-net.org zu verwenden.
 
 Ich finde es schade, dass die XMPP-Community scheinbar keinerlei Intentionen zeigt, daran zu arbeiten es zu ändern.  
 ¯\\\_(ツ)_/¯ Es ist einfach über etwas zu meckern, aber daran mitzuwirken, dass sich etwas ändert ist scheinbar nicht gewünscht...  
@@ -244,29 +243,12 @@ Und wenn man sich mit dem Thema beschäftigt, merkt man, dass es auch von der Ar
 z.B. sind Brücken bei denen die Bots genutzt werden, z.B. bei Discord und Telegram, völlig unkritisch.
 
 ## [Datenintegrität](https://www.freie-messenger.de/matrix/gedanken/#datenintegrität)
-> Seit März 2022 verändert die die Matrix-Brücke (Bifröst) Inhalte und übersetzt neuerdings XMPP URIs (Adressen)
-
-Es ist schon faszinierend wie jemand, der immer wieder XMPP/Jabber versucht als DEN Standard hervorzuheben, das Prinzip von Diensten scheinbar nicht versteht.
-Genauso wie es bei freien Messengern bei Homeservern nicht DEN Anbieter gibt, gibt es auch bei Brücken nicht die "Matrix-Brücke (Bifrost)".
-Das von ihm angedeutete Feature macht eine der Brücken:  
-https://aria-net.org/SitePages/Portal/Bridges.aspx  
-
-Wer das nicht möchte kann z.B. auch die [Brücke von matrix.org](https://github.com/matrix-org/matrix-bifrost/wiki/Address-syntax) nutzen oder selber die Brücke hosten.
-
-> Ganz abgesehen davon, daß Nachrichten von einer Brücke nicht inhaltlich geändert werden sollten: Warum erfolgt die Änderung der Links in Nachrichten ausschließlich in Richtung der Matrix-Syntax und in der anderen Richtung wird keine Matrix-Adresse „übersetzt“ - warum?
-
-¯\\\_(ツ)_/¯ Vielleicht liegt es daran, weil die XMPP Community bisher kein Interesse hatte das Feature beizutragen?!?
-
+> Seit März 2022 verändert die die Matrix-Brücke (Bifröst) Inhalte und übersetzt neuerdings XMPP URIs (Adressen) [...]
 > Hier werden Aufgeben, die ein Client übernehmen sollte (optionale Anpassung in der Anzeige von Inhalten) von der Brücke übernommen. Verknüpfungen (Links) beinhalten bewußt das zu berücksichtigende Protokoll, was viele Gründe haben kann - unter anderem Sicherheit.
 
 Wer bestimmt eigentlich, wer welche Aufgabe hat?  
 Vielleicht nutzt ein Matrix-Nutzer auch die aria-net.org Brücke WEGEN des Features.  
 Es soll einige Nutzer geben, die dieses Feature haben wollen.
-
-> Ein Entwickler der Bifröst-Bridge merkt dazu treffenderweise an, daß das lediglich meine Meinung ist:
-Ich nehme an, das ist Ihre Meinung im Gegensatz zu anderen, die vielleicht tatsächlich XMPP benutzen und dafür entwickeln, z.B. https://github.com/matrix-org/matrix-bifrost/issues/308 (extern)
-
-Ähm dort wird gar nichts angemerkt?!?
 
 ## [Unklare Positionierung](https://www.freie-messenger.de/matrix/gedanken/#unklare-positionierung)
 >Auf der einen Seite wird mit Brücken zwischen den Protokollen Matrix und XMPP geworben - auf der anderen Seite wird XMPP überhaupt nicht bei den Matrix-Brücken (extern) aufgeführt bzw. mit keinem Wort erwähnt. Zumindest nicht auf dieser wichtigen Seite.
