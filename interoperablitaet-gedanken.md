@@ -2,7 +2,7 @@ In diesem Dokument wird die Webseite https://www.freie-messenger.de/begriffe/int
 
 
 Zuletzt analysierte Version kann hier nachvollzogen werden:  
-https://web.archive.org/web/20230215090202/https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/
+https://web.archive.org/web/20250124172634/https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/
 
 # [Vorwort](https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/#vorwort)
 > Mit diesen Gedanken soll ein bewußteres Wahrnehmen von vorgebrachten Aussagen insbesondere zur „Interoperabilität“ -aber auch zur „Föderation“- sowie eine sachlichere Argumentation erreicht werden.
@@ -24,7 +24,16 @@ Mit "sich" meine ich die vielen Millionen Nutzer von walled garden, die somit qu
 
 Warum sollte man das müssen?
 
-# [nternationaler Standard?](https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/#internationaler-standard)
+# [Schaubild](https://web.archive.org/web/20250124172634/https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/#schaubild)
+> Selbst Facebook (Meta) verwendet XMPP als Hilfmittel zur Interoperabilität für WhatsApp als auch den Facebook Messenger
+
+Nein tun sie nicht, wie sogar zitiert wird 
+> über unser Protokoll (basierend auf dem Extensible Messaging and Presence Protocol - XMPP)
+
+Ein Protokoll welches sich nicht an die Richtlinien von XMPP hält, ist schlicht und einfach nicht XMPP...
+Es hilft nichts wenn ein Protokoll mal auf XMPP basiert hat, aber nun nur noch eine Abwandundlung davon ist...
+
+# [Internationaler Standard?](https://www.freie-messenger.de/begriffe/interoperabilitaet/gedanken/#internationaler-standard)
 > Für die Standardisierung im Internet ist die [IETF](https://de.wikipedia.org/wiki/Internet_Engineering_Task_Force) (extern; Internet Engineering Task Force) zuständig.
 
 [Ein Standard kann alles sein und was ein Standard ist, entscheidet die Allgemeinheit.](README.md#standard) Es ist meiner Ansicht nach zu Befürworten, dass die Freiwilligenvereinigung IETF dies versucht zu kanalisieren, aber "zuständig" halte ich ein wenig Überschätzend...
