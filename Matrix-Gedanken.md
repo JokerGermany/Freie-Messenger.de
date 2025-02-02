@@ -121,7 +121,10 @@ Hier versucht der Autor mit standartisiertem Schnittstellen ( [Analyse zu "stand
 Dabei funktioniert der Gruppenchat bei XMPP/Jabber ironischerweise GENAUSO wie Matrix mit dem Unterschied das nicht jeder Server ein Backup speichern MUSS.
 Der Nutzer kontaktiert seinen Heimserver welcher wiederum die Daten vom Chatserver, wo der Chat gehostet wird, abholt.
 Man stellt also fest, dass auch bei XMPP/Jabber die Daten quasi repliziert werden.
-Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, könnte er die Daten genauso zwischenspeichern wie es bei Matrix getan wird. Somit ist die Art der Datenverarbeitung NICHT unterschiedlich. Trotzdem ist man vollständig abhängig von dem einem Hauptchat-Server. Fällt dieser aus, ist der Gruppenchat bei XMPP/Jabber verloren.
+Es wird nur nich als Backup genutzt. Wenn der HomeServer allerdings möchte, könnte er die Daten genauso zwischenspeichern wie es bei Matrix getan wird. Somit ist die Art der Datenverarbeitung NICHT unterschiedlich.  
+Trotzdem ist man vollständig abhängig von dem einem Hauptchat-Server. Fällt dieser aus, ist der Gruppenchat bei XMPP/Jabber verloren.
+Auch der Wechsel des Servers für den Gruppenchat ist bei XMPP nicht ohne Neuerstellen eines Raumes möglich, wie ironischerweise der Autor selber gerade selber feststellt und einen Teil "seiner" Räume von conference.jabber.de auf openim.de migriert hat.  
+Bei Matrix hätte er nur einen neuen Account auf dem gewünschten Server erstellen müssen, dem neuen Account die Adminrechte im Raum geben und den alten Account die rechte wegnehmen müssen und schon wäre der "Umzug" abgeschlossen und die Nutzenden hätte noch nicht einmal etwas tun müssen... 
 
 # [Kein Internetstandard](https://www.freie-messenger.de/matrix/gedanken/#kein-internetstandard)
 Das Matrix sehr wohl ein Internetstandard ist, habe ich schon hier erläutert:
